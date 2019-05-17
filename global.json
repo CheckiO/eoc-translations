@@ -1,0 +1,930 @@
+{
+    "term": {
+        "new": [
+            "New",
+            "Новый"
+        ],
+        "level": [
+            "Level",
+            "Уровень"
+        ],
+        "language": [
+            "Language",
+            "Язык"
+        ],
+        "blog": [
+            "Blog",
+            "Блог"
+        ],
+        "forum": [
+            "Forum",
+            "Форум"
+        ],
+        "chat": [
+            "Chat",
+            "Чат"
+        ],
+        "profile": [
+            "Profile",
+            "Профиль"
+        ],
+        "logout": [
+            "Logout",
+            "Выход"
+        ],
+        "attack": [
+            "Attack",
+            "Атака"
+        ],
+        "build": [
+            "Build",
+            "Строй"
+        ],
+        "crystalite": [
+            "Crystal",
+            "Кристал"
+        ],
+        "adamantite": [
+            "Adamant",
+            "Адамант"
+        ],
+        "energy": [
+            "Energy",
+            "Энергия"
+        ],
+        "titanium": [
+            "Flex",
+            "Флекс"
+        ],
+        "blitzCoin": [
+            "Blitz-Coin",
+            "Блиц-Коин"
+        ],
+        "energon": [
+            "Energon",
+            "Энергон"
+        ],
+        "max": [
+            "Max",
+            "Макс."
+        ],
+        "builders": [
+            "Builders",
+            "Строители"
+        ],
+        "upgrade": [
+            "Upgrade",
+            "Улучшить"
+        ],
+        "sortedBy": [
+            "Sorted by",
+            "Сорт. по"
+        ],
+        "type": [
+            "Type",
+            "Тип"
+        ],
+        "bots": [
+            "Bots",
+            "Боты"
+        ],
+        "available": [
+            "Available",
+            "Доступны"
+        ],
+        "capacity": [
+            "Capacity",
+            "Объем"
+        ],
+        "research": [
+            "Research",
+            "Исследования"
+        ],
+        "collect": [
+            "Collect",
+            "Собрать"
+        ],
+        "shortTerm": [
+            "Short Term",
+            "Короткая"
+        ],
+        "longTerm": [
+            "Long Term",
+            "Длинная"
+        ],
+        "expedition": [
+            "Expedition",
+            "Экспедиция"
+        ],
+        "loading": [
+            "Loading",
+            "Работает"
+        ],
+        "improve": [
+            "Improve",
+            "Развить"
+        ],
+        "purchase": [
+            "Purchase",
+            "Купить"
+        ]
+    },
+    "game": {
+        "status": {
+            "upgrading": [
+                "Upgrading ${ name } to Level ${ level } ...",
+                "Улучшение ${ name } до Уровня ${ level } ..."
+            ],
+            "building": [
+                "Building ${ name } ...",
+                "Строительство ${ name } ..."
+            ],
+            "training": [
+                "Training ${ name } ...",
+                "Тренировка ${ name } ..."
+            ]
+        }
+    },
+    "button": {
+        "ok": [
+            "Ok",
+            "Ok"
+        ],
+        "cancel": [
+            "Cancel",
+            "Отмена"
+        ],
+        "info": [
+            "Info",
+            "Инфо"
+        ],
+        "upgrade": [
+            "Upgrade",
+            "Улучшить"
+        ],
+        "close": [
+            "Close",
+            "Закрыть"
+        ],
+        "confirm": [
+            "Confirm",
+            "Подтвердить"
+        ],
+        "coin": [
+            "Speed Up",
+            "Ускорить"
+        ],
+        "puzzle": [
+            "Puzzles",
+            "Задачи"
+        ],
+        "research": [
+            "Research",
+            "Исследования"
+        ],
+        "open": [
+            "Open",
+            "Открыть"
+        ],
+        "collect": [
+            "Collect",
+            "Собрать"
+        ],
+        "expedition": [
+            "Expedition",
+            "Экспедиция"
+        ],
+        "launch": [
+            "Launch",
+            "Запуск"
+        ],
+        "openPatreon": [
+            "Open Patreon Page",
+            "Открыть страницу Patreon"
+        ],
+        "leaderboard": [
+            "Leaders",
+            "Лидеры"
+        ]
+    },
+    "stat": {
+        "dps": [
+            "Damage per shot",
+            "Повреждение за выстрел"
+        ],
+        "firingRange": [
+            "Firing Range",
+            "Радиус огня"
+        ],
+        "firingRate": [
+            "Rate of fire",
+            "Рейт огня*"
+        ],
+        "hitpoints": [
+            "Health",
+            "Жизни"
+        ],
+        "protectedPercentage": [
+            "Protected percentage",
+            "Защищенный процент"
+        ],
+        "adamantiteCapacity": [
+            "Adamant. Capacity",
+            "Вместимость Адаманта"
+        ],
+        "adamantiteProductionCapacity": [
+            "Adamant. Capacity",
+            "Вместимость Адаманта"
+        ],
+        "adamantiteProduction": [
+            "Adamant. Production",
+            "Производство Адаманта"
+        ],
+        "crystaliteCapacity": [
+            "Crystal. Capacity",
+            "Вместимость Кристала"
+        ],
+        "crystaliteProductionCapacity": [
+            "Crystal. Capacity",
+            "Вместимость Кристала"
+        ],
+        "crystaliteProduction": [
+            "Crystal. Production",
+            "Производство Кристала"
+        ],
+        "titaniumCapacity": [
+            "Flex Capacity",
+            "Вместимость Флекса"
+        ],
+        "titaniumProductionCapacity": [
+            "Flex Capacity",
+            "Вместимость Флекса"
+        ],
+        "titaniumProduction": [
+            "Flex Production",
+            "Производство Флекса"
+        ],
+        "unitCapacity": [
+            "Unit Capacity",
+            "Вместимость юнитов"
+        ],
+        "generateEnergy": [
+            "Gen. Energy",
+            "Произ. Энерергии"
+        ],
+        "incBuildingSpeed": [
+            "Inc. Building Speed",
+            "Увл. Скорости Строит."
+        ],
+        "short.lvl1": [
+            "Short Exp. - Chest lvl 1 pos.",
+            "Короткая экс. - Сундук ур. 1 вер."
+        ],
+        "short.lvl2": [
+            "Short Exp. - Chest lvl 2 pos.",
+            "Короткая экс. - Сундук ур. 2 вер."
+        ],
+        "short.lvl3": [
+            "Short Exp. - Chest lvl 3 pos.",
+            "Короткая экс. - Сундук ур. 3 вер."
+        ],
+        "long.lvl1": [
+            "Long Exp. - Chest lvl 1 pos.",
+            "Длинная экс. - Сундук ур. 1 вер."
+        ],
+        "long.lvl2": [
+            "Long Exp. - Chest lvl 2 pos.",
+            "Длинная экс. - Сундук ур. 2 вер."
+        ],
+        "long.lvl3": [
+            "Long Exp. - Chest lvl 3 pos.",
+            "Длинная экс. - Сундук ур. 3 вер."
+        ]
+    },
+    "building":{
+        "adamantiteMine": {
+            "name":[
+                "Adamantite mine",
+                "Шахта Адаманта"
+            ],
+            "description": [
+                "Extracts mineral Adamantite for construction.",
+                "Добывает Адамант, который используется для сооружения зданий"
+            ]
+        },
+        "adamantiteStorage": {
+            "name":[
+                "Adamantite storage",
+                "Склад Адаманта"
+            ],
+            "description": [
+                "High capacity storage for holding large quantities of Adamantite.",
+                "Склад большой вместимости для хранения большого колличества Адаманта"
+            ]
+        },
+        "commandCenter": {
+            "name":[
+                "Command Center",
+                "Командный Центр"
+            ],
+            "description": [
+                "The nervous system of your colony. Upgrades enable increased construction capabilities and storage.",
+                "Центральная нервная система вашей колонии. Улучшения этого здания открывают возможности строить новые здания"
+            ]
+        },
+        "craftPad": {
+            "name":[
+                "Craft Pad",
+                "Пусковая Площадка"
+            ],
+            "description": [
+                "Prepare your troops, upload battle code in robominds and launch them to fight.",
+                "Готовит ваши войстка, загружает код в роботов и отправляет их в бой"
+            ]
+        },
+        "crystaliteFarm": {
+            "name":[
+                "Crystalite farm",
+                "Ферма Кристала"
+            ],
+            "description": [
+                "Grows and harvests one of the most precious resources Crystalite.",
+                "Выращивает и собирает один из самых дорогих ресурсов - Кристал"
+            ]
+        },
+        "crystaliteSilo": {
+            "name":[
+                "Crystalite silo",
+                "Склад Кристала"
+            ],
+            "description": [
+                "High capacity specialised silos for the storage of raw Crystalite.",
+                "Склад большой вместимости для хранения Кристала"
+            ]
+        },
+        "titaniumStorage": {
+            "name": [
+                "Flex Storage",
+                "Склад Флекса"
+            ],
+            "description": [
+                "... for the storage of raw Flex.",
+                ""
+            ]
+        },
+        "titaniumLab": {
+            "name": [
+                "Flex Lab",
+                "Лаборатория Флекса"
+            ],
+            "description": [
+                "Flex Lab TODO",
+                ""
+            ]
+        },
+        "defPlatform": {
+            "name": [
+                "Platform",
+                "Платформа"
+            ],
+            "description": [
+                "Platform Desc TODO",
+                ""
+            ]
+        },
+        "bots": {
+            "name": [
+                "Bots Docs",
+                "Доки Ботов"
+            ],
+            "description": [
+                "Bots Docs desc TODO",
+                ""
+            ]
+        },
+        "electronic": {
+            "name": [
+                "Electronic Station",
+                "Электронная станция"
+            ],
+            "description": [
+                "Electronic TODO",
+                ""
+            ]
+        },
+        "radar": {
+            "name": [
+                "Radar",
+                "Радар"
+            ],
+            "description": [
+                "Radar TODO",
+                ""
+            ]
+        },
+        "garbage": {
+            "name": [
+                "Garbage Collector",
+                "Собиратель мусора"
+            ],
+            "description": [
+                "You can send expeditions using this building. Which can bring you chests",
+                "Позволяет отправлять экспедиции, которые могут привезти вам сундуки"
+            ]
+        },
+        "weather": {
+            "name": [
+                "Weather Control",
+                "Контроль Погоды"
+            ],
+            "description": [
+                "Weather desc TODO",
+                ""
+            ]
+        },
+        "collector": {
+            "name": [
+                "Resource Collector",
+                "Собиратель Ресурсов"
+            ],
+            "description": [
+                "Collector desc TODO",
+                ""
+            ]
+        },
+        "flagman": {
+            "name": [
+                "Flagman",
+                "Флагман"
+            ],
+            "description": [
+                "Flagman desc TODO",
+                ""
+            ]
+        },
+        "tavern": {
+            "name": [
+                "Space Tavern",
+                "Косм. Таверна"
+            ],
+            "description": [
+                "Taver desc TODO",
+                ""
+            ]
+        },
+        "tradeCenter": {
+            "name": [
+                "Trade Center",
+                "Торговый Центр"
+            ],
+            "description": [
+                "Trade desc TODO",
+                ""
+            ]
+        },
+        "flagStock": {
+            "name":[
+                "Flag Stock",
+                "Флаг"
+            ],
+            "description": [
+                "",
+                ""
+            ]
+        },
+        "laboratory": {
+            "name":[
+                "Laboratory",
+                "Лаборатория"
+            ],
+            "description": [
+                "Research new tech, to upgrade units and weapons and keep your colony on the bleeding edge.",
+                "Исследования новых технологий для улучшения юнитов* и оружия"
+            ]
+        },
+        "machineGun": {
+            "name":[
+                "Machine Gun",
+                "Пулемет"
+            ],
+            "description": [
+                "Quickly cut down encroaching forces with the high rate of fire from these machine gunners.",
+                "Быстрое подавления вторгающихся войск большой скоростью огня"
+            ]
+        },
+        "rocketGun": {
+            "name":[
+                "Rocket Gun",
+                "Ракетная Установка"
+            ],
+            "description": [
+                "Targets groups of enemy forces with long-range explosive shells.",
+                "Накрывает большую группу юнитов сильным взрывом"
+            ]
+        },
+        "sentryGun": {
+            "name":[
+                "Sentry Gun",
+                "Стороживой Пост"
+            ],
+            "description": [
+                "Snipe enemy combatants from long range with this high powered rifle tower.",
+                "Снайперская вышка, которая стреляет на большое растояние и с большой мощностью"
+            ]
+        },
+        "vault": {
+            "name":[
+                "Vault",
+                "Подвал"
+            ],
+            "description": [
+                "Resources are kept safe from damage and theft within the walls of the impenetrable Vaultmaster 5K.",
+                "Прячет и защищает ресурсы от врагов. "
+            ]
+        },
+        "mine": {
+            "name": [
+                "Mine",
+                "Мина"
+            ], 
+            "description": [
+                "Mine can demage ground units while they went trough",
+                "Мины может наносить урон наземным юнитам тогда, когда проходят сквозь нее."
+            ]
+        },
+        "birthdayCake": {
+            "name":[
+                "Birthday Cake",
+                "Birthday Cake"
+            ],
+            "description": [
+                "",
+                ""
+            ]
+        },
+        "christmasElka": {
+            "name":[
+                "Christmas Elka",
+                "Christmas Elka"
+            ],
+            "description": [
+                "",
+                ""
+            ]
+        },
+        "christmasGift": {
+            "name":[
+                "Christmas Gift",
+                "Christmas Gift"
+            ],
+            "description": [
+                "",
+                ""
+            ]
+        },
+        "christmasSnowman": {
+            "name":[
+                "Christmas Snowman",
+                "Christmas Snowman"
+            ],
+            "description": [
+                "",
+                ""
+            ]
+        },
+        "dragonBones": {
+            "name":[
+                "Dragon Bones",
+                "Dragon Bones"
+            ],
+            "description": [
+                "",
+                ""
+            ]
+        },
+        "mushroom": {
+            "name":[
+                "Mushroom",
+                "Mushroom"
+            ],
+            "description": [
+                "",
+                ""
+            ]
+        },
+        "rip": {
+            "name":[
+                "RIP",
+                "RIP"
+            ],
+            "description": [
+                "",
+                ""
+            ]
+        },
+        "scarecrow": {
+            "name":[
+                "Scarecrow",
+                "Scarecrow"
+            ],
+            "description": [
+                "",
+                ""
+            ]
+        },
+        "stoneLego": {
+            "name":[
+                "Stone Lego",
+                "Stone Lego"
+            ],
+            "description": [
+                "",
+                ""
+            ]
+        },
+        "ufo": {
+            "name":[
+                "UFO",
+                "UFO"
+            ],
+            "description": [
+                "",
+                ""
+            ]
+        },
+        "goldenCat": {
+            "name":[
+                "Golden Cat",
+                "Golden Cat"
+            ],
+            "description": [
+                "",
+                ""
+            ]
+        },
+        "rocketStone": {
+            "name":[
+                "Rocket Stone",
+                "Rocket Stone"
+            ],
+            "description": [
+                "",
+                ""
+            ]
+        },
+        "zeus": {
+            "name":[
+                "Zeus",
+                "Zeus"
+            ],
+            "description": [
+                "",
+                ""
+            ]
+        }
+    },
+    "message": {
+        "expeditionSuccess": [
+            "Check new Chest in Inventory",
+            "Проверб новый Сундук в Инвентаре"
+        ],
+        "expeditionPuzzled": [
+            "Check new Puzzled Chest in Inventory",
+            "Проверь новый закодированный сундук в Инвентаре"
+        ],
+        "expeditionEmpty": [
+            "Expedition is Empty",
+            "Экспежиция ничего не принесла"
+        ],
+        "commandCenterLevelRequired": [
+            "Command Center lvl ${ level } required",
+            "Необходим коммандный центер уровня ${ level }"
+        ],
+        "maximumAmountReached": [
+            "Maximum amount is reched",
+            "Достигнуто максимальное кол. зданий"
+        ],
+        "userLevelRequired": [
+            "Your level should be at least ${ level }",
+            "Ваш уровень должне быть как минимум  ${ level }"
+        ],
+        "buildersAreBusy": [
+            "All your builders are busy",
+            "Все строители заняты"
+        ],
+        "notEnoughResources": [
+            "Not Enough Resources",
+            "Недостаточно ресурсов"
+        ],
+        "needMoreEnergy": [
+            "Need More Energy",
+            "Нужно большое Энергии"
+        ],
+        "maximumLevelReached": [
+            "Maximum level reached",
+            "Достигнут максимальный уровень"
+        ],
+        "labUpgradeRequired": [
+            "Laboratory upgrade required",
+            "Необходимо улучшить лабораторию"
+        ],
+        "patreon": [
+            "Message about patreon",
+            "Сообщение патреонов"
+        ],
+        "missionInfo": {
+            "noInfo": [
+                "Mission Inforation haven't been received.",
+                "Информация по миссии не была найдена"
+            ]
+        },
+        "howToConfigEditor": [
+            "How to config Editor?",
+            "Как настроить Редактор?"
+        ]
+    },
+    "item": {
+        "chest": {
+            "title": [
+                "Chest",
+                "Сундук"
+            ],
+            "short": [
+                "Open a chest in order to get some random stuff",
+                "Открой сундук, чтобы получить разные штуки крутые"
+            ]
+        },
+        "puzzled_chest": {
+            "title": [
+                "Locked Chest",
+                "Кодиров. Сундук"
+            ],
+            "short": [
+                "Solve a simple coding puzzle in order to unlock a chest",
+                "Реши простую задачку и открой сундук"
+            ]
+        },
+        "laboratory": {
+            "title": [
+                "Lab. Card",
+                "Лаб. Карта"
+            ],
+            "short": [
+                "Laboratory Cards can be used for research",
+                "Лабораторные Карты используюится в исследованиях"
+            ]
+        },
+        "resources": {
+            "title": [
+                "Resources",
+                "Ресурсы"
+            ],
+            "short": [
+                "Collect resources in order to add those into the store and use lates",
+                "Собери ресурсы, чтобы добавить их на склад"
+            ]
+        },
+        "bots": {
+            "title": [
+                "Bots",
+                "Боты"
+            ],
+            "short": [
+                "Add more bots to your docks",
+                "Добавь больше Ботов себе в док, но только, если там есть достаточно места"
+            ]
+        },
+        "puzzle": {
+            "title": [
+                "Puzzle",
+                "Задача"
+            ],
+            "short": [
+                "Solve a simple coding puzzle in order to unlock a chest",
+                "Реши простую задачку и открой сундук"
+            ]
+        }
+    },
+    "window": {
+        "choose_language": {
+            "title": [
+                "Make Your Choice",
+                "Сделай свой выбор"
+            ],
+            "explain": [
+                "Which language you want to use? By choosing language you also choose your clan in the game. (The choice can be made only once.)",
+                "Какий язык ты хочешь использовать? Выбирая язык ты также выбираешь свой клан в игре. (Выбор может быть сделан только один раз.)"
+            ],
+            "py": [
+                "Python is my destiny",
+                "Python это моя судьба"
+            ],
+            "js": [
+                "Only JS, only hardcore!",
+                "Только JS, только хардкор!"
+            ],
+            "confirm": [
+                "Are you sure?  You can't undo this action.",
+                "Ты уверен? Ты не сможешь отменить это действие"
+            ]
+        },
+        "expedition": {
+            "title": [
+                "Launch Expedition",
+                "Запустить экспидицию"
+            ],
+            "short": [
+                "Expedition can brings you new chests to open",
+                "Экспедиция, возможно, принесет тебе новые сундуки"
+            ]
+        },
+        "leaderboard": {
+            "title": [
+                "LeaderBoard of Best Coders",
+                "Таблица Рекордов лучших Кодеров"
+            ]
+        },
+        "openChest": {
+            "title": [
+                "Open Chest",
+                "Открыть Сундук"
+            ],
+            "short": [
+                "You can open your stored chests and get loot out of it",
+                "Ты можешь открыть сундук тут и получить лут оттуда"
+            ]
+        },
+        "newLevel": {
+            "title": [
+                "You've reached level ${ level }",
+                "Вы достигли уровня ${ level }"
+            ],
+            "body": [
+                "All the rewards can be found in your inventory",
+                "Вы можете использовать полученную награду в инвентаре"
+            ],
+            "action": [
+                "Collect to Inventory",
+                "Положить в Инвентарь"
+            ]
+        },
+        "newCodeLevel": {
+            "title": [
+                "You've reached coding level ${ level }",
+                "Вы достигли уровня кодинга ${ level }"
+            ]
+        },
+        "editor": {
+            "title": [
+                "Solve ${ mission }",
+                "Реши ${ mission }"
+            ]
+        },
+        "puzzleSolutions": {
+            "title": [
+                "Solutions ${ mission }",
+                "Решения ${ mission }"
+            ],
+            "short": [
+                "Here you can find the most interesting solutions of other users",
+                "Тут можно найти самые интересные решения других пользователей"
+            ]
+        },
+        "bots": {
+            "title": [
+                "AI-Bots",
+                "ИИ-Бот"
+            ],
+            "short": [
+                "Assign your bots to buildings",
+                "Назначь ботов на здания"
+            ]
+        },
+        "inventory": {
+            "title": [
+                "Inventory",
+                "Инвентарь"
+            ],
+            "short": [
+                "Here you can find all the store in-game items",
+                "Тут ты можешь найти все внутре игровые вещи"
+            ]
+        },
+        "quests": {
+            "title": [
+                "Achivements",
+                "Ачивки"
+            ],
+            "short": [
+                "Here you can find all your Achivements",
+                "Тут ты можешь найти все ачивки"
+            ]
+        },
+        "improve": {
+            "short": [
+                "Congratulation! You've successfuly solved the puzzle, now you can improve the building.",
+                "Поздравляю! Вы успешно решили задачу. Теперь можно развить здание"
+            ]
+        }
+    }
+}

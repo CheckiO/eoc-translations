@@ -1,0 +1,31 @@
+{"window":{"build":{
+    "build": [
+        "Build",
+        "Строить"
+    ],
+    "decor": [
+        "Decor",
+        "Декор"
+    ],
+    "resource": [
+        "Recource",
+        "Ресурсы"
+    ],
+    "support": [
+        "Support",
+        "Поддержка"
+    ],
+    "defense": [
+        "Defense",
+        "Защита"
+    ],
+    "show": [
+        "Show",
+        "Показать"
+    ],
+    "sectionTitle": [
+        "Section ${ name }",
+        "Секция ${ name }"
+    ]
+
+}}}

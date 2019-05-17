@@ -1,0 +1,22 @@
+{"window":{"confirm":{
+    "title": [
+        "Please Confirm",
+        "Пожалуйста Подтвердите"
+    ],
+    "cancel": [
+        "Are you sure you want to cancel?",
+        "Вы уверены, что хотите отменить"
+    ],
+    "cancel_unlocking": [
+        "Are you sure you want to cancel research process. In that case all the used cards will be returned to your inventory but only half of the price - to your store",
+        "Вы уверены, что хотите отменить исследование? В этом случае все карты будут возвращены в инвентарь, но только половина использованных ресурсов"
+    ],
+    "useResourcesCoin": [
+        "You don't have enough resources. Do you want to use Blitz-Coin instead?",
+        "У вас недостаточно рессурсов. Вы хотите использовать вместо них Блиц-Коин?"
+    ],
+    "useTimeCoin": [
+        "Are you sure you want to use Blitz-Coin in order to speed up process?",
+        "Вы уверены, что хотите использовать Блиц-Коины, чтобы ускорить процесс строительсва?"
+    ]
+}}}

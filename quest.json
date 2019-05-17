@@ -1,0 +1,142 @@
+{"quest": {
+    "collectedCrystalite": {
+        "name": [
+            "Crystal Collector",
+            "Собиратель Кристала"
+        ],
+        "description": [
+            "Collect Crystal ${ required } from farms. Collected: ${ achived } / ${ required }",
+            "Собери ${ required } Кристала с ферм. Собрано: ${ achived } / ${ required }"
+        ]
+    },
+    "collectedAdamantite": {
+        "name": [
+            "Adamant Collector",
+            "Собиратель Адаманта"
+        ],
+        "description": [
+            "Collect Adamant ${ required } from mines. Collected: ${ achived } / ${ required }",
+            "Собери ${ required } Адаманта с шахт. Собрано: ${ achived } / ${ required }"
+        ]
+    },
+    "collectedTitanium": {
+        "name": [
+            "Flex Collector",
+            "Собиратель Флекса"
+        ],
+        "description": [
+            "Collect Flex ${ required } from labs. Collected: ${ achived } / ${ required }",
+            "Собери ${ required } Флекса с Лаб. Собрано: ${ achived } / ${ required }"
+        ]
+    },
+    "totalBuildings": {
+        "name": [
+            "Builder",
+            "Строитель"
+        ],
+        "description": [
+            "Build ${ required } buildings. Build: ${ achived } / ${ required }",
+            "Построй ${ required } зданий. Построено: ${ achived } / ${ required }"
+        ]
+    },
+    "commandCenter": {
+        "name": [
+            "Center Progress",
+            "Прогресс Центра"
+        ],
+        "description": [
+            "Upgrade Command Center to level ${ required }. Current level: ${ achived }",
+            "Улучши Коммандный Центр до ${ required } уровня. Текущий уровень: ${ achived }"
+        ]
+    },
+    "storageCrystalite": {
+        "name": [
+            "Crystal Storage",
+            "Склад Кристала"
+        ],
+        "description": [
+            "Extand Crystal Storage of your base to ${ required }. Current Storage: ${ achived } / ${ required }",
+            "Расширь склад Кристала до ${ required }. Текущий Склад: ${ achived } / ${ required }"
+        ]
+    },
+    "storageAdamantite": {
+        "name": [
+            "Adamant Storage",
+            "Склад Адаманта"
+        ],
+        "description": [
+            "Extand Adamant Storage of your base to ${ required }. Collected: ${ achived } / ${ required }",
+            "Расширь склад Адаманта до ${ required }. Текущий Склад: ${ achived } / ${ required }"
+        ]
+    },
+    "storageTitanium": {
+        "name": [
+            "Flex Storage",
+            "Склад Флекса"
+        ],
+        "description": [
+            "Extand Flex Storage of your base to ${ required }. Collected: ${ achived } / ${ required }",
+            "Расширь склад Флекса до ${ required }. Текущий Склад: ${ achived } / ${ required }"
+        ]
+    },
+    "totalBots": {
+        "name": [
+            "AI-Bots Empire",
+            "Империя Ботов"
+        ],
+        "description": [
+            "Your total working AI-Bots Should be ${ required }. Working now: ${ achived } / ${ required }",
+            "Общее колличество рабочих ботов должно быть ${ required }. Сейчас работает: ${ achived } / ${ required }"
+        ]
+    },
+    "totalGenEnergy": {
+        "name": [
+            "Energy Generator",
+            "Генератор энергии"
+        ],
+        "description": [
+            "Your base should generate  ${ required } energy. Current generated: ${ achived } / ${ required }",
+            "Твоя база должна генерировать ${ required } энергии. Сейчас генерится: ${ achived } / ${ required }"
+        ]
+    },
+    "laboratory": {
+        "name": [
+            "Building Academy",
+            "Строитель Академии"
+        ],
+        "description": [
+            "Upgrade your Laboratory to level ${ required }. Current level: ${ achived } / ${ required }",
+            "Улучши Лабораторию до уровня ${ required }. Текущий уровень: ${ achived } / ${ required }"
+        ]
+    },
+    "totalMines": {
+        "name": [
+            "Miner",
+            "Шахтер"
+        ],
+        "description": [
+            "Total Mining buildings should be ${ required }. Currently: ${ achived } / ${ required }",
+            "Общее колличество шахт должно быть ${ required }. Шахь: ${ achived } / ${ required }"
+        ]
+    },
+    "totalDef": {
+        "name": [
+            "Defender",
+            "Защитник"
+        ],
+        "description": [
+            "Total defending buildings should be ${ required }. Currently: ${ achived } / ${ required }",
+            "Общее колличество защитьных зданий должно быть ${ required }. Шахь: ${ achived } / ${ required }"
+        ]
+    },
+    "solvedMissions": {
+        "name": [
+            "Code Solver",
+            "Решатель"
+        ],
+        "description": [
+            "${ required } codding puzzles should be solved. Solved: ${ achived } / ${ required }",
+            "${ required } задач должно быть решено. Решено: ${ achived } / ${ required }"
+        ]
+    }
+}}

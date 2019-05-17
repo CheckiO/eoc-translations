@@ -1,0 +1,725 @@
+{"puzzles":{
+    "say-history": [
+        "Just Say Hi",
+        "Скажи Привет"
+    ],
+    "non-unique-elements": [
+        "Non Unique Elements",
+        "Не Уникальные Элементы"
+    ],
+    "monkey-typing": [
+        "Monkey Typing",
+        "Обезьянки Печатаю"
+    ],
+    "correct-sentence": [
+        "Correct Sentence",
+        "Исправить Предложение"
+    ],
+    "most-wanted-letter": [
+        "Most Wanted Letter",
+        "Самые Популярные Буквы"
+    ],
+    "house-password": [
+        "House Password",
+        "Пароль от Дома"
+    ],
+    "best-stock": [
+        "Best Stock",
+        "Лучшие акции"
+    ],
+    "median-of-three": [
+        "Median of Three",
+        "Медиана трех"
+    ],
+    "isometric-strings": [
+        "Isometric String",
+        "Изометрические Строки"
+    ],
+    "caps-lock": [
+        "Caps Lock",
+        "Капс Лок"
+    ],
+    "can-balance": [
+        "Can Balance",
+        "Можно сбалансировать"
+    ],
+    
+    "multiply-intro": [
+        "Multiply Intro",
+        "Умножение (Введение)"
+    ],
+
+    "binary-count": [
+        "Binary Count",
+        "Бин. Счетчик"
+    ],
+
+    "follow-instructions": [
+        "Follow Instructions",
+        "Следую Инструкции"
+    ],
+
+    "conversion-into-camelcase": [
+        "Conversion Into Camelcase",
+        "Перевести в КамелКейс"
+    ],
+    "easy-unpack": [
+        "Easy Unpack",
+        "Легко Распаковать"
+    ],
+
+    "middle-characters": [
+        "Middle Characters",
+        "Средний Символ"
+    ],
+
+    "all-the-same": [
+        "All The Same",
+        "Все Одно"
+    ],
+
+    "index-power": [
+        "Index Power",
+        "Сила Индекса"
+    ],
+
+    "pangram": [
+        "Pangram",
+        "Панграм"
+    ],
+
+    "digits-multiplication": [
+        "Digits Multiplication",
+        "Умножение цифр"
+    ],
+
+    "secret-message": [
+        "Secret Message",
+        "Секретное Сообщение"
+    ],
+
+    "conversion-from-camelcase": [
+        "Conversion From Camelcase",
+        "Перевести из КамелКейс"
+    ],
+
+    "skew-symmetric-matrix": [
+        "Skew Symmetric Matrix",
+        "Косая Cимметричная Матрица"
+    ],
+
+    "fizz-buzz": [
+        "Fizz Buzz",
+        "Физз Базз"
+    ],
+
+    "morse-encoder": [
+        "Morse Encoder",
+        "Кодировщик Морзе"
+    ],
+
+    "unlucky-days": [
+        "Unlucky Days",
+        "Несчастливый День"
+    ],
+
+    "letter-queue": [
+        "Letter Queue",
+        "Очередь Символов"
+    ],
+
+    "count-inversions": [
+        "Count Inversions",
+        "Обратный Подсчет"
+    ],
+
+    "worth-of-words": [
+        "Worth Of Words",
+        "Цена Слов"
+    ],
+
+    "the-highest-building": [
+        "The Highest Building",
+        "Самое Высокое Здание"
+    ],
+
+    "even-last": [
+        "Even Last",
+        "Четный Нечетный"
+    ],
+
+    "achilles-tortoise": [
+        "Achilles Tortoise",
+        "Ахилес и Черепаха"
+    ],
+
+    "median": [
+        "Median",
+        "Мадиана"
+    ],
+
+    "right-to-left": [
+        "Right To Left",
+        "Справа на Лево"
+    ],
+
+    "word-pattern": [
+        "Word Pattern",
+        "Патерн Слов"
+    ],
+
+    "simple-areas": [
+        "Simple Areas",
+        "Простая Площадь"
+    ],
+
+    "boolean-algebra": [
+        "Boolean Algebra",
+        "Булевная Алгебра"
+    ],
+
+    "cut-sentence": [
+        "Cut Sentence",
+        "Образанное Предложение"
+    ],
+
+    "common-words": [
+        "Common Words",
+        "Распростаненные Слова"
+    ],
+
+    "weak-point": [
+        "Weak Point",
+        "Слабая Точка"
+    ],
+
+    "end-of-other": [
+        "End Of Other",
+        "Конец Всех"
+    ],
+
+    "group-equal-consecutive": [
+        "Group Equal Consecutive",
+        "Равно Последовательная Группа"
+    ],
+
+    "second-index": [
+        "Second Index",
+        "Второй Индекс"
+    ],
+
+    "absolute-sorting": [
+        "Absolute Sorting",
+        "Абсолютная Сортировка"
+    ],
+
+    "most-numbers": [
+        "Most Numbers",
+        "Большенство Цифр"
+    ],
+
+    "digit-stack": [
+        "Digit Stack",
+        "Цифровой Стек"
+    ],
+
+    "determinant": [
+        "Determinant",
+        "Детерминант"
+    ],
+
+    "days-diff": [
+        "Days Diff",
+        "Разница Дней"
+    ],
+
+    "verify-anagrams": [
+        "Verify Anagrams",
+        "Проверка Анаграмы"
+    ],
+
+    "when-is-friday": [
+        "When Is Friday",
+        "Когда Пятница"
+    ],
+
+    "morse-decoder": [
+        "Morse Decoder",
+        "Декодер Морзе"
+    ],
+
+    "first-word": [
+        "First Word",
+        "Первое Слово"
+    ],
+
+    "three-words": [
+        "Three Words",
+        "Три Слова"
+    ],
+
+    "bigger-price": [
+        "Bigger Price",
+        "Самая Большая Цена"
+    ],
+
+    "time-converter-12h-to-24h": [
+        "Time Converter 12H To 24H",
+        "Перевод Времени из 12 в 24"
+    ],
+
+    "time-converter-24h-to-12h": [
+        "Time Converter 24H To 12H",
+        "Перевод Времени из 24 в 12"
+    ],
+
+    "popular-words": [
+        "Popular Words",
+        "Популяные Слова"
+    ],
+
+    "weekend-counter": [
+        "Weekend Counter",
+        "Счетчиков Выходных"
+    ],
+
+    "hamming-distance2": [
+        "Hamming Distance2",
+        "Расстояние Хемминга"
+    ],
+
+    "bird-language": [
+        "Bird Language",
+        "Язык Птиц"
+    ],
+
+    "parity-bit-generator": [
+        "Parity Bit Generator",
+        "Генератор Четности"
+    ],
+
+    "area-of-a-convex-polygon": [
+        "Area Of A Convex Polygon",
+        "Площадь Выпуклого Многоугольника"
+    ],
+
+    "super-root": [
+        "Super Root",
+        "Супер Корень"
+    ],
+
+    "sun-angle": [
+        "Sun Angle",
+        "Угол Солнца"
+    ],
+
+    "good-radix": [
+        "Good Radix",
+        "Хороший Корень"
+    ],
+
+    "count-consecutive-summers": [
+        "Count Consecutive Summers",
+        "Считай Поседовательность"
+    ],
+
+    "reverse-roman-numerals": [
+        "Reverse Roman Numerals",
+        "Обратные Римские Цифры"
+    ],
+
+    "long-repeat": [
+        "Long Repeat",
+        "Длинные Повтор"
+    ],
+
+    "building-base": [
+        "Building Base",
+        "Построй Базу"
+    ],
+
+    "remove-accents": [
+        "Remove Accents",
+        "Удали Акценты"
+    ],
+
+    "the-stone-wall": [
+        "The Stone Wall",
+        "Металическая Стена"
+    ],
+
+    "between-markers": [
+        "Between Markers",
+        "Между Маркеров"
+    ],
+
+    "loading-cargo": [
+        "Loading Cargo",
+        "Погрузка"
+    ],
+
+    "auto-painting": [
+        "Auto Painting",
+        "Покраска Машины"
+    ],
+
+    "date-and-time-converter": [
+        "Date And Time Converter",
+        "Конвертор Даты и Времени"
+    ],
+
+    "the-fastest-horse": [
+        "The Fastest Horse",
+        "Самая Быстрая Лошадь"
+    ],
+
+    "flatten-list": [
+        "Flatten List",
+        "Плоский Лист"
+    ],
+
+    "matrix-pattern": [
+        "Matrix Pattern",
+        "Паттерн Матрицы"
+    ],
+
+    "ghosts-age": [
+        "Ghosts Age",
+        "Возраст Призрака"
+    ],
+
+    "node-subnetworks": [
+        "Node Subnetworks",
+        "Узлы Подсетей"
+    ],
+
+    "gcd": [
+        "GCD",
+        "GCD"
+    ],
+
+    "caesar-cipher-encryptor": [
+        "Caesar Cipher Encryptor",
+        "Шифр Цезаря"
+    ],
+
+    "rotate-hole": [
+        "Rotate Hole",
+        "Развернуть Дыру"
+    ],
+
+    "brackets": [
+        "Brackets",
+        "Скобки"
+    ],
+
+    "roman-numerals": [
+        "Roman Numerals",
+        "Римские Цифры"
+    ],
+
+    "the-longest-palindromic": [
+        "The Longest Palindromic",
+        "Самый Длинный Полиндром"
+    ],
+
+    "the-most-frequent-weekdays": [
+        "The Most Frequent Weekdays",
+        "Самые Частые Дни Недели"
+    ],
+
+    "double-substring": [
+        "Double Substring",
+        "Двойная Подстрока"
+    ],
+
+    "stair-steps": [
+        "Stair Steps",
+        "Ступеньки"
+    ],
+
+    "humpty-dumpty": [
+        "Humpty Dumpty",
+        "Шалтай-Болтай"
+    ],
+
+    "triangle-angles": [
+        "Triangle Angles",
+        "Углы Триугольника"
+    ],
+
+    "x-o-referee": [
+        "X O Referee",
+        "Крестики Нолики"
+    ],
+
+    "speechmodule": [
+        "Speech Module",
+        "Разговорный Модуль"
+    ],
+
+    "create-intervals": [
+        "Create Intervals",
+        "Создать Интервалы"
+    ],
+
+    "box-probability": [
+        "Box Probability",
+        "Ящик Возможностей"
+    ],
+
+    "every-person-is-unique": [
+        "Every Person Is Unique",
+        "Люди Уникальны"
+    ],
+
+    "long-non-repeat": [
+        "Long Non Repeat",
+        "Длинное Без Повторения"
+    ],
+
+    "largest-histogram": [
+        "Largest Histogram",
+        "Самая Длинная Гистограмма"
+    ],
+
+    "feed-pigeons": [
+        "Feed Pigeons",
+        "Накорми Голубей"
+    ],
+
+    "multiplication-table": [
+        "Multiplication Table",
+        "Таблица Умножения"
+    ],
+
+    "bag-of-santa-claus": [
+        "Bag Of Santa Claus",
+        "Сумка Деда Мороза"
+    ],
+
+    "counting-tiles": [
+        "Counting Tiles",
+        "Посчитай Тайлы"
+    ],
+
+    "stressful-subject": [
+        "Stressful Subject",
+        "Важное Название"
+    ],
+
+    "flatten-dict": [
+        "Flatten Dict",
+        "Плоский Словарь"
+    ],
+
+    "pawn-brotherhood": [
+        "Pawn Brotherhood",
+        "Братья Пешки"
+    ],
+
+    "stick-sawing": [
+        "Stick Sewing",
+        "Швейная Палка"
+    ],
+
+    "check-digit": [
+        "Check Digit",
+        "Проверь Цифру"
+    ],
+
+    "striped-words": [
+        "Striped Words",
+        "Полосатые Слова"
+    ],
+
+    "sort-array-by-element-frequency": [
+        "Sort Array By Element Frequency",
+        "Отсортируй по Частоте"
+    ],
+
+    "calls-home": [
+        "Calls Home",
+        "Звонки Домой"
+    ],
+
+    "hidden-word": [
+        "Hidden Word",
+        "Спрятанное Слово"
+    ],
+
+    "friends": [
+        "Friends",
+        "Друлья"
+    ],
+
+    "compass-map-and-spyglass": [
+        "Compass, Map And Spyglass",
+        "Помпас, Карта и Труба"
+    ],
+
+    "digits-doublets": [
+        "Digits Doublets",
+        "Цифры Дублеты"
+    ],
+
+    "morse-clock": [
+        "Morse Clock",
+        "Часы Морзе"
+    ],
+
+    "node-crucial": [
+        "Node Crucial",
+        "Важный Узел"
+    ],
+
+    "number-factory": [
+        "Number Factory",
+        "Фабрика Чисел"
+    ],
+
+    "completely-empty": [
+        "Completely Empty",
+        "Полностью Пустой"
+    ],
+
+    "cipher-map2": [
+        "Cipher Map",
+        "Карта Шифров"
+    ],
+
+    "long-repeat-inside": [
+        "Long Repeat Inside",
+        "Повторение Внутри"
+    ],
+
+    "safe-code": [
+        "Safe Code",
+        "Безопастный Код"
+    ],
+
+    "ground-for-the-house": [
+        "Ground For The House",
+        "Земля за Домом"
+    ],
+
+    "find-sequence": [
+        "Find Sequence",
+        "Найди Последовательность"
+    ],
+
+    "find-friends": [
+        "Find Friends",
+        "Найди Друзей"
+    ],
+
+    "probably-dice": [
+        "Probably Dice",
+        "Кости Вероятности"
+    ],
+
+    "network-attack": [
+        "Network Attack",
+        "Атака Сети"
+    ],
+
+    "painting-wall": [
+        "Painting Wall",
+        "Покраска Стены"
+    ],
+
+    "the-square-chest": [
+        "The Square Chest",
+        "Квадратный Сундук"
+    ],
+
+    "gate-puzzles": [
+        "Gate Puzzles",
+        "Пазлы Ворот"
+    ],
+
+    "making-change": [
+        "Making Change",
+        "Дать Сдачу"
+    ],
+
+    "node-disconnected-users2": [
+        "Node Disconnected Users",
+        "Разорванные Пользователи"
+    ],
+
+    "identify-block": [
+        "Identify Block",
+        "Определи Блок"
+    ],
+
+    "friendly-number": [
+        "Friendly Number",
+        "Дружественные Числа"
+    ],
+
+    "ip-network-route-summarization": [
+        "IP Network Route Summarization",
+        "IP Сеть"
+    ],
+
+    "disposable-teleports": [
+        "Disposable Teleports",
+        "Отключить Телепорт"
+    ],
+
+    "wrong-family": [
+        "Wrong Family",
+        "Не Правильная Семья"
+    ],
+
+    "seven-segment": [
+        "Seven Segment",
+        "Семь Сегментов"
+    ],
+
+    "three-points-circle": [
+        "Three Points Circle",
+        "Три Точки Круга"
+    ],
+
+    "amsco-cipher": [
+        "AMISCO Cipher",
+        "AMISCO Шифр"
+    ],
+
+    "treasures": [
+        "Treasures",
+        "Сокровища"
+    ],
+
+    "keys-and-locks": [
+        "Keys And Locks",
+        "Ключи и замки"
+    ],
+
+    "wild-dogs": [
+        "Wild Dogs",
+        "Бешеные Псы"
+    ],
+
+    "short-string-conversion": [
+        "Short String Conversion",
+        "Преобразование Коротких Строк"
+    ],
+
+    "arr-size": [
+        "The Size of Array",
+        "Размер Массива"
+    ],
+
+    "gen-arr-zero": [
+        "Generate Zeros",
+        "Генери Нули"
+    ],
+
+    "find-key": [
+        "Find a Key",
+        "Найди Ключ"
+    ]
+}}
