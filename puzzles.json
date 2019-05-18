@@ -9,15 +9,15 @@
     ],
     "monkey-typing": [
         "Monkey Typing",
-        "Обезьянки Печатаю"
+        "Печатающая обезьянка"
     ],
     "correct-sentence": [
-        "Correct Sentence",
+        "Correct the Sentence",
         "Исправить Предложение"
     ],
     "most-wanted-letter": [
         "Most Wanted Letter",
-        "Самые Популярные Буквы"
+        "Самая Популярная Буква"
     ],
     "house-password": [
         "House Password",
@@ -32,7 +32,7 @@
         "Медиана трех"
     ],
     "isometric-strings": [
-        "Isometric String",
+        "Isometric Strings",
         "Изометрические Строки"
     ],
     "caps-lock": [
@@ -56,11 +56,11 @@
 
     "follow-instructions": [
         "Follow Instructions",
-        "Следую Инструкции"
+        "Следуй Инструкции"
     ],
 
     "conversion-into-camelcase": [
-        "Conversion Into Camelcase",
+        "Conversion Into CamelСase",
         "Перевести в КамелКейс"
     ],
     "easy-unpack": [
@@ -70,7 +70,7 @@
 
     "middle-characters": [
         "Middle Characters",
-        "Средний Символ"
+        "Средние Символы"
     ],
 
     "all-the-same": [
@@ -89,7 +89,7 @@
     ],
 
     "digits-multiplication": [
-        "Digits Multiplication",
+        "Digit Multiplication",
         "Умножение цифр"
     ],
 
@@ -100,12 +100,12 @@
 
     "conversion-from-camelcase": [
         "Conversion From Camelcase",
-        "Перевести из КамелКейс"
+        "Перевести из КамелКейса"
     ],
 
     "skew-symmetric-matrix": [
-        "Skew Symmetric Matrix",
-        "Косая Cимметричная Матрица"
+        "Skew-Symmetric Matrix",
+        "Кососимметричная Матрица"
     ],
 
     "fizz-buzz": [
@@ -115,22 +115,22 @@
 
     "morse-encoder": [
         "Morse Encoder",
-        "Кодировщик Морзе"
+        "Морзе Кодировщик"
     ],
 
     "unlucky-days": [
         "Unlucky Days",
-        "Несчастливый День"
+        "Несчастливые Дни"
     ],
 
     "letter-queue": [
         "Letter Queue",
-        "Очередь Символов"
+        "Очередь Букв"
     ],
 
     "count-inversions": [
         "Count Inversions",
-        "Обратный Подсчет"
+        "Подсчет Инверсий"
     ],
 
     "worth-of-words": [
@@ -149,7 +149,7 @@
     ],
 
     "achilles-tortoise": [
-        "Achilles Tortoise",
+        "Achilles and the Tortoise",
         "Ахилес и Черепаха"
     ],
 
@@ -165,27 +165,27 @@
 
     "word-pattern": [
         "Word Pattern",
-        "Патерн Слов"
+        "Паттерн Слов"
     ],
 
     "simple-areas": [
         "Simple Areas",
-        "Простая Площадь"
+        "Простые Площади"
     ],
 
     "boolean-algebra": [
         "Boolean Algebra",
-        "Булевная Алгебра"
+        "Булевая Алгебра"
     ],
 
     "cut-sentence": [
         "Cut Sentence",
-        "Образанное Предложение"
+        "Обрезанное Предложение"
     ],
 
     "common-words": [
         "Common Words",
-        "Распростаненные Слова"
+        "Распространенные Слова"
     ],
 
     "weak-point": [
@@ -199,7 +199,7 @@
     ],
 
     "group-equal-consecutive": [
-        "Group Equal Consecutive",
+        "Equal Consecutive Group",
         "Равно Последовательная Группа"
     ],
 
@@ -215,7 +215,7 @@
 
     "most-numbers": [
         "Most Numbers",
-        "Большенство Цифр"
+        "Большинство Цифр"
     ],
 
     "digit-stack": [
@@ -235,7 +235,7 @@
 
     "verify-anagrams": [
         "Verify Anagrams",
-        "Проверка Анаграмы"
+        "Проверка Анаграммы"
     ],
 
     "when-is-friday": [
@@ -245,7 +245,7 @@
 
     "morse-decoder": [
         "Morse Decoder",
-        "Декодер Морзе"
+        "Дешифратор Морзе"
     ],
 
     "first-word": [
@@ -280,12 +280,12 @@
 
     "weekend-counter": [
         "Weekend Counter",
-        "Счетчиков Выходных"
+        "Счетчик Выходных"
     ],
 
     "hamming-distance2": [
         "Hamming Distance2",
-        "Расстояние Хемминга"
+        "Расстояние Хэмминга"
     ],
 
     "bird-language": [
@@ -295,7 +295,7 @@
 
     "parity-bit-generator": [
         "Parity Bit Generator",
-        "Генератор Четности"
+        "Генератор Бит Четности"
     ],
 
     "area-of-a-convex-polygon": [
@@ -320,7 +320,7 @@
 
     "count-consecutive-summers": [
         "Count Consecutive Summers",
-        "Считай Поседовательность"
+        "Посчитай Последовательные Лета"
     ],
 
     "reverse-roman-numerals": [
@@ -330,12 +330,12 @@
 
     "long-repeat": [
         "Long Repeat",
-        "Длинные Повтор"
+        "Длинный Повтор"
     ],
 
     "building-base": [
-        "Building Base",
-        "Построй Базу"
+        "Building a Base",
+        "Постройка Базы"
     ],
 
     "remove-accents": [
@@ -345,12 +345,12 @@
 
     "the-stone-wall": [
         "The Stone Wall",
-        "Металическая Стена"
+        "Каменная Стена"
     ],
 
     "between-markers": [
         "Between Markers",
-        "Между Маркеров"
+        "Между Маркерами"
     ],
 
     "loading-cargo": [
@@ -359,13 +359,13 @@
     ],
 
     "auto-painting": [
-        "Auto Painting",
-        "Покраска Машины"
+        "Auto-Painting",
+        "Покрытие автомобилей"
     ],
 
     "date-and-time-converter": [
         "Date And Time Converter",
-        "Конвертор Даты и Времени"
+        "Конвертер Даты и Времени"
     ],
 
     "the-fastest-horse": [
@@ -400,11 +400,11 @@
 
     "caesar-cipher-encryptor": [
         "Caesar Cipher Encryptor",
-        "Шифр Цезаря"
+        "Энкриптор Шифра Цезаря"
     ],
 
     "rotate-hole": [
-        "Rotate Hole",
+        "Rotate the Hole",
         "Развернуть Дыру"
     ],
 
@@ -419,8 +419,8 @@
     ],
 
     "the-longest-palindromic": [
-        "The Longest Palindromic",
-        "Самый Длинный Полиндром"
+        "The Longest Palindrome",
+        "Самый Длинный Палиндром"
     ],
 
     "the-most-frequent-weekdays": [
@@ -439,23 +439,23 @@
     ],
 
     "humpty-dumpty": [
-        "Humpty Dumpty",
+        "Humpty-Dumpty",
         "Шалтай-Болтай"
     ],
 
     "triangle-angles": [
         "Triangle Angles",
-        "Углы Триугольника"
+        "Углы Треугольника"
     ],
 
     "x-o-referee": [
         "X O Referee",
-        "Крестики Нолики"
+        "Судья Игры в Крестики-Нолики"
     ],
 
     "speechmodule": [
         "Speech Module",
-        "Разговорный Модуль"
+        "Речевой Модуль"
     ],
 
     "create-intervals": [
@@ -464,18 +464,18 @@
     ],
 
     "box-probability": [
-        "Box Probability",
+        "Box of Probabilities",
         "Ящик Возможностей"
     ],
 
     "every-person-is-unique": [
         "Every Person Is Unique",
-        "Люди Уникальны"
+        "Каждый Человек Уникален"
     ],
 
     "long-non-repeat": [
         "Long Non Repeat",
-        "Длинное Без Повторения"
+        "Длинное Отсутствие Повторения"
     ],
 
     "largest-histogram": [
@@ -484,7 +484,7 @@
     ],
 
     "feed-pigeons": [
-        "Feed Pigeons",
+        "Feed the Pigeons",
         "Накорми Голубей"
     ],
 
@@ -500,12 +500,12 @@
 
     "counting-tiles": [
         "Counting Tiles",
-        "Посчитай Тайлы"
+        "Считая Плитки"
     ],
 
     "stressful-subject": [
         "Stressful Subject",
-        "Важное Название"
+        "Стрессовая Тема"
     ],
 
     "flatten-dict": [
@@ -515,11 +515,11 @@
 
     "pawn-brotherhood": [
         "Pawn Brotherhood",
-        "Братья Пешки"
+        "Пешечное Братство"
     ],
 
     "stick-sawing": [
-        "Stick Sewing",
+        "Sewing Stick",
         "Швейная Палка"
     ],
 
@@ -534,12 +534,12 @@
     ],
 
     "sort-array-by-element-frequency": [
-        "Sort Array By Element Frequency",
-        "Отсортируй по Частоте"
+        "Sort an Array By the Element Frequency",
+        "Отсортируй Массив по Частоте Элементов"
     ],
 
     "calls-home": [
-        "Calls Home",
+        "Home Calls",
         "Звонки Домой"
     ],
 
@@ -550,16 +550,16 @@
 
     "friends": [
         "Friends",
-        "Друлья"
+        "Друзья"
     ],
 
     "compass-map-and-spyglass": [
-        "Compass, Map And Spyglass",
-        "Помпас, Карта и Труба"
+        "Compass, Map And a Spyglass",
+        "Компас, Карта и Подзорная Труба"
     ],
 
     "digits-doublets": [
-        "Digits Doublets",
+        "Digit Doublets",
         "Цифры Дублеты"
     ],
 
@@ -569,7 +569,7 @@
     ],
 
     "node-crucial": [
-        "Node Crucial",
+        "Crucial Node",
         "Важный Узел"
     ],
 
@@ -590,17 +590,17 @@
 
     "long-repeat-inside": [
         "Long Repeat Inside",
-        "Повторение Внутри"
+        "Длинное Повторение Внутри"
     ],
 
     "safe-code": [
         "Safe Code",
-        "Безопастный Код"
+        "Безопасный Код"
     ],
 
     "ground-for-the-house": [
-        "Ground For The House",
-        "Земля за Домом"
+        "Grounds Of The House",
+        "Земля при Доме"
     ],
 
     "find-sequence": [
@@ -614,8 +614,8 @@
     ],
 
     "probably-dice": [
-        "Probably Dice",
-        "Кости Вероятности"
+        "Dice Probability",
+        "Вероятность игры в Кости"
     ],
 
     "network-attack": [
@@ -624,7 +624,7 @@
     ],
 
     "painting-wall": [
-        "Painting Wall",
+        "Painting a Wall",
         "Покраска Стены"
     ],
 
@@ -640,12 +640,12 @@
 
     "making-change": [
         "Making Change",
-        "Дать Сдачу"
+        "Давать Сдачу"
     ],
 
     "node-disconnected-users2": [
         "Node Disconnected Users",
-        "Разорванные Пользователи"
+        "Отключенные Пользователи"
     ],
 
     "identify-block": [
@@ -654,33 +654,33 @@
     ],
 
     "friendly-number": [
-        "Friendly Number",
+        "Friendly Numbers",
         "Дружественные Числа"
     ],
 
     "ip-network-route-summarization": [
         "IP Network Route Summarization",
-        "IP Сеть"
+        "Суммирование сети IP-маршрутов"
     ],
 
     "disposable-teleports": [
         "Disposable Teleports",
-        "Отключить Телепорт"
+        "Одноразовый Телепорт"
     ],
 
     "wrong-family": [
         "Wrong Family",
-        "Не Правильная Семья"
+        "Не Та Семья"
     ],
 
     "seven-segment": [
-        "Seven Segment",
+        "Seven Segments",
         "Семь Сегментов"
     ],
 
     "three-points-circle": [
-        "Three Points Circle",
-        "Три Точки Круга"
+        "Three Point Circle",
+        "Трехточечный Круг"
     ],
 
     "amsco-cipher": [
@@ -709,13 +709,13 @@
     ],
 
     "arr-size": [
-        "The Size of Array",
+        "The Size of an Array",
         "Размер Массива"
     ],
 
     "gen-arr-zero": [
         "Generate Zeros",
-        "Генери Нули"
+        "Сгенерировать Нули"
     ],
 
     "find-key": [
