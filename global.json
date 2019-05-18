@@ -127,6 +127,14 @@
         "purchase": [
             "Purchase",
             "Купить"
+        ],
+        "next": [
+            "Next",
+            "След."
+        ],
+        "prev": [
+            "Prev",
+            "Пред."
         ]
     },
     "game": {
@@ -741,6 +749,10 @@
         "howToConfigEditor": [
             "How to config Editor?",
             "Как настроить Редактор?"
+        ],
+        "noSolutions": [
+            "Unfortunately, we don't have any shared solutions for this mission.",
+            "К сожалению, у нас нет доступных решений для этой миссии."
         ]
     },
     "item": {
