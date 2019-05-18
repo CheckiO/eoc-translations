@@ -2,31 +2,31 @@
     "collectedCrystalite": {
         "name": [
             "Crystal Collector",
-            "Собиратель Кристала"
+            "Сборщик Кристалла"
         ],
         "description": [
-            "Collect Crystal ${ required } from farms. Collected: ${ achived } / ${ required }",
-            "Собери ${ required } Кристала с ферм. Собрано: ${ achived } / ${ required }"
+            "Collect Crystal ${ required } from farms. Collected: ${ achieved } / ${ required }",
+            "Собери ${ required } Кристалла с ферм. Собрано: ${ achieved } / ${ required }"
         ]
     },
     "collectedAdamantite": {
         "name": [
             "Adamant Collector",
-            "Собиратель Адаманта"
+            "Сборщик Адаманта"
         ],
         "description": [
-            "Collect Adamant ${ required } from mines. Collected: ${ achived } / ${ required }",
-            "Собери ${ required } Адаманта с шахт. Собрано: ${ achived } / ${ required }"
+            "Collect Adamant ${ required } from mines. Collected: ${ achieved } / ${ required }",
+            "Собери ${ required } Адаманта с шахт. Собрано: ${ achieved } / ${ required }"
         ]
     },
     "collectedTitanium": {
         "name": [
             "Flex Collector",
-            "Собиратель Флекса"
+            "Сборщик Флекса"
         ],
         "description": [
-            "Collect Flex ${ required } from labs. Collected: ${ achived } / ${ required }",
-            "Собери ${ required } Флекса с Лаб. Собрано: ${ achived } / ${ required }"
+            "Collect Flex ${ required } from labs. Collected: ${ achieved } / ${ required }",
+            "Собери ${ required } Флекса с Лабораторий. Собрано: ${ achieved } / ${ required }"
         ]
     },
     "totalBuildings": {
@@ -35,8 +35,8 @@
             "Строитель"
         ],
         "description": [
-            "Build ${ required } buildings. Build: ${ achived } / ${ required }",
-            "Построй ${ required } зданий. Построено: ${ achived } / ${ required }"
+            "Build ${ required } buildings. Built: ${ achieved } / ${ required }",
+            "Построй ${ required } зданий. Построено: ${ achieved } / ${ required }"
         ]
     },
     "commandCenter": {
@@ -45,18 +45,18 @@
             "Прогресс Центра"
         ],
         "description": [
-            "Upgrade Command Center to level ${ required }. Current level: ${ achived }",
-            "Улучши Коммандный Центр до ${ required } уровня. Текущий уровень: ${ achived }"
+            "Upgrade the Command Center to level ${ required }. Current level: ${ achieved }",
+            "Улучши Командный Центр до ${ required } уровня. Текущий уровень: ${ achieved }"
         ]
     },
     "storageCrystalite": {
         "name": [
             "Crystal Storage",
-            "Склад Кристала"
+            "Склад Кристалла"
         ],
         "description": [
-            "Extand Crystal Storage of your base to ${ required }. Current Storage: ${ achived } / ${ required }",
-            "Расширь склад Кристала до ${ required }. Текущий Склад: ${ achived } / ${ required }"
+            "Expand the Crystal Storage of your base to ${ required }. Current Storage: ${ achieved } / ${ required }",
+            "Расширь склад Кристалла до ${ required }. Текущий Склад: ${ achieved } / ${ required }"
         ]
     },
     "storageAdamantite": {
@@ -65,8 +65,8 @@
             "Склад Адаманта"
         ],
         "description": [
-            "Extand Adamant Storage of your base to ${ required }. Collected: ${ achived } / ${ required }",
-            "Расширь склад Адаманта до ${ required }. Текущий Склад: ${ achived } / ${ required }"
+            "Expand the Adamant Storage of your base to ${ required }. Current Storage: ${ achieved } / ${ required }",
+            "Расширь склад Адаманта до ${ required }. Текущий Склад: ${ achieved } / ${ required }"
         ]
     },
     "storageTitanium": {
@@ -75,8 +75,8 @@
             "Склад Флекса"
         ],
         "description": [
-            "Extand Flex Storage of your base to ${ required }. Collected: ${ achived } / ${ required }",
-            "Расширь склад Флекса до ${ required }. Текущий Склад: ${ achived } / ${ required }"
+            "Expand the Flex Storage of your base to ${ required }. Current Storage: ${ achieved } / ${ required }",
+            "Расширь склад Флекса до ${ required }. Текущий Склад: ${ achieved } / ${ required }"
         ]
     },
     "totalBots": {
@@ -85,8 +85,8 @@
             "Империя Ботов"
         ],
         "description": [
-            "Your total working AI-Bots Should be ${ required }. Working now: ${ achived } / ${ required }",
-            "Общее колличество рабочих ботов должно быть ${ required }. Сейчас работает: ${ achived } / ${ required }"
+            "The total number of working AI-Bots Should be ${ required }. Working now: ${ achieved } / ${ required }",
+            "Общее количество рабочих ботов должно быть ${ required }. Сейчас работает: ${ achieved } / ${ required }"
         ]
     },
     "totalGenEnergy": {
@@ -95,18 +95,18 @@
             "Генератор энергии"
         ],
         "description": [
-            "Your base should generate  ${ required } energy. Current generated: ${ achived } / ${ required }",
-            "Твоя база должна генерировать ${ required } энергии. Сейчас генерится: ${ achived } / ${ required }"
+            "Your base should generate  ${ required } energy. Currently generated: ${ achieved } / ${ required }",
+            "Твоя база должна генерировать ${ required } энергии. Сейчас генерируется: ${ achieved } / ${ required }"
         ]
     },
     "laboratory": {
         "name": [
-            "Building Academy",
-            "Строитель Академии"
+            "Building the Academy",
+            "Строительство Академии"
         ],
         "description": [
-            "Upgrade your Laboratory to level ${ required }. Current level: ${ achived } / ${ required }",
-            "Улучши Лабораторию до уровня ${ required }. Текущий уровень: ${ achived } / ${ required }"
+            "Upgrade your Laboratory to level ${ required }. Current level: ${ achieved } / ${ required }",
+            "Улучши Лабораторию до уровня ${ required }. Текущий уровень: ${ achieved } / ${ required }"
         ]
     },
     "totalMines": {
@@ -115,8 +115,8 @@
             "Шахтер"
         ],
         "description": [
-            "Total Mining buildings should be ${ required }. Currently: ${ achived } / ${ required }",
-            "Общее колличество шахт должно быть ${ required }. Шахь: ${ achived } / ${ required }"
+            "The total number of Mines should be ${ required }. Currently: ${ achieved } / ${ required }",
+            "Общее количество шахт должно быть ${ required }. Есть сейчас: ${ achieved } / ${ required }"
         ]
     },
     "totalDef": {
@@ -125,8 +125,8 @@
             "Защитник"
         ],
         "description": [
-            "Total defending buildings should be ${ required }. Currently: ${ achived } / ${ required }",
-            "Общее колличество защитьных зданий должно быть ${ required }. Шахь: ${ achived } / ${ required }"
+            "The total number of defense buildings should be ${ required }. Currently: ${ achieved } / ${ required }",
+            "Общее количество защитных зданий должно быть ${ required }. Есть: ${ achieved } / ${ required }"
         ]
     },
     "solvedMissions": {
@@ -135,8 +135,8 @@
             "Решатель"
         ],
         "description": [
-            "${ required } codding puzzles should be solved. Solved: ${ achived } / ${ required }",
-            "${ required } задач должно быть решено. Решено: ${ achived } / ${ required }"
+            "${ required } coding puzzles should be solved. Solved: ${ achieved } / ${ required }",
+            "${ required } задач должно быть решено. Решено: ${ achieved } / ${ required }"
         ]
     }
 }}
