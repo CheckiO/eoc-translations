@@ -440,7 +440,7 @@
                 "Сборщик мусора"
             ],
             "description": [
-                "Using this building you can send expeditions which can bring you chests.",
+                "Send expeditions with this building, which can bring you chests.",
                 "Это здание позволяет отправлять экспедиции для поиска сундуков."
             ]
         },
@@ -510,7 +510,7 @@
                 "Лаборатория"
             ],
             "description": [
-                "Research new tech to upgrade units and weapons and keep your colony on the bleeding edge.",
+                "Research new tech to upgrade units and weapons, and keep your colony on the bleeding edge.",
                 "Исследуй новые технологии, чтобы улучшить юниты* и оружие, а также обеспечить свою колонию передовыми разработками."
             ]
         },
@@ -530,7 +530,7 @@
                 "Ракетная Установка"
             ],
             "description": [
-                "It targets the groups of enemy forces with the long-range explosive shells.",
+                "Launch long-range explosive shells at enemy forces.",
                 "Накрывает вражеские группы разрывными снарядами дальнего действия."
             ]
         },
@@ -697,15 +697,15 @@
     },
     "message": {
         "expeditionSuccess": [
-            "Check a new Chest in the Inventory.",
+            "There's a new Chest in your Inventory.",
             "Проверь новый Сундук в Инвентаре."
         ],
         "expeditionPuzzled": [
-            "Check a new Puzzled Chest in the Inventory.",
+            "There's a new Puzzled Chest in your Inventory.",
             "Проверь новый закодированный сундук в Инвентаре."
         ],
         "expeditionEmpty": [
-            "The expedition is Empty-handed.",
+            "The expedition returned empty-handed.",
             "Экспедиция ничего не принесла."
         ],
         "commandCenterLevelRequired": [
@@ -729,7 +729,7 @@
             "Недостаточно ресурсов."
         ],
         "needMoreEnergy": [
-            "Need More Energy",
+            "Need More Energy.",
             "Нужно большое Энергии"
         ],
         "maximumLevelReached": [
@@ -737,11 +737,11 @@
             "Достигнут максимальный уровень."
         ],
         "labUpgradeRequired": [
-            "Laboratory upgrade required",
+            "Laboratory upgrade required.",
             "Необходимо улучшить лабораторию"
         ],
         "patreon": [
-            "We’ve also launched a Patreon Page, where you can learn more about how our development process goes and support us.",
+            "We’ve also launched a Patreon Page, where you can learn more about how our development process is going and support the game.",
             "Мы также запустили страницу на Патреоне, где ты можешь больше узнать о разработке игра и поддержать игру."
         ],
         "missionInfo": {
@@ -751,7 +751,7 @@
             ]
         },
         "howToConfigEditor": [
-            "How to config Editor?",
+            "How do I set up the editor?",
             "Как настроить Редактор?"
         ],
         "noSolutions": [
@@ -774,7 +774,7 @@
                 "Сундук"
             ],
             "short": [
-                "Open a chest in order to get some cool random stuff.",
+                "Open the chest to get some cool random stuff.",
                 "Открой сундук, чтобы получить разные крутые штуки."
             ]
         },
@@ -784,7 +784,7 @@
                 "Запертый Сундук"
             ],
             "short": [
-                "Solve a simple coding puzzle in order to unlock a chest.",
+                "Solve a simple coding puzzle to unlock the chest.",
                 "Реши простую задачку и открой сундук."
             ]
         },
@@ -804,7 +804,7 @@
                 "Ресурсы"
             ],
             "short": [
-                "Collect resources in order to add those to the storage and use later.",
+                "Add this resouce to your storage bin or silo, so you can use it. (Make sure you have room!)",
                 "Собери ресурсы, чтобы добавить их на склад и использовать в дальнейшем."
             ]
         },
@@ -814,7 +814,7 @@
                 "Боты"
             ],
             "short": [
-                "Add more bots to your docks, but only if  they have enough space.",
+                "Add more bots to your docks, but only if they have enough space.",
                 "Добавь больше Ботов себе в доки, но только, если там есть достаточно места."
             ]
         },
@@ -824,7 +824,7 @@
                 "Задача"
             ],
             "short": [
-                "Solve a simple coding puzzle in order to unlock a chest.",
+                "Solve a simple coding puzzle to unlock a chest.",
                 "Реши простую задачку и открой сундук."
             ]
         }
@@ -836,7 +836,7 @@
                 "Сделай свой выбор."
             ],
             "explain": [
-                "Which language do you want to use? By choosing a language you also choose your clan in the game. (The choice can be made only once.)",
+                "Which language do you want to use? This will determine which clan you join. (The choice can be made only once.)",
                 "Какий язык ты хочешь использовать? Выбирая язык ты также выбираешь свой клан в игре. (Выбор может быть сделан только один раз.)"
             ],
             "py": [
@@ -858,7 +858,7 @@
                 "Запустить экспедицию."
             ],
             "short": [
-                "The expedition can bring you new chests to open.",
+                "An expedition can bring you new chests to open.",
                 "Экспедиция может принести вам новые сундуки."
             ]
         },
@@ -874,7 +874,7 @@
                 "Открыть Сундук"
             ],
             "short": [
-                "You can open your stored chests and get loot out of it.",
+                "Open your chest to find some loot.",
                 "Ты можешь открыть сохраненный сундук и получить деньги оттуда."
             ]
         },
@@ -888,7 +888,7 @@
                 "Все награды ты можете найти в инвентаре."
             ],
             "action": [
-                "Collect to Inventory",
+                "Add to Inventory",
                 "Положить в Инвентарь"
             ]
         },
@@ -910,7 +910,7 @@
                 "Решения ${ mission }"
             ],
             "short": [
-                "Interesting solutions of other users.",
+                "Interesting solutions from other users.",
                 "Интересные решения других пользователей."
             ]
         },
@@ -930,7 +930,7 @@
                 "Инвентарь"
             ],
             "short": [
-                "Here you can find all of the stored in-game items.",
+                "This is where you can find all of your stored in-game items.",
                 "Тут ты можешь найти все внутриигровые вещи."
             ]
         },
@@ -940,13 +940,13 @@
                 "Достижения"
             ],
             "short": [
-                "Here you can find all your Achievements.",
+                "This is where all of your Achievements are recorded.",
                 "Тут ты можешь найти все свои достижения."
             ]
         },
         "improve": {
             "short": [
-                "Congratulation! You've successfully solved the puzzle! Тow you can improve the building.",
+                "Congratulations! You've successfully solved the puzzle! Now you can improve the building.",
                 "Поздравляю! Ты успешно решил задачу! Теперь можно улучшить здание."
             ]
         }
