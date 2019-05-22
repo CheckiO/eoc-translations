@@ -102,7 +102,7 @@
         ],
         "collect": [
             "Collect",
-            "Собирать"
+            "Собрать"
         ],
         "shortTerm": [
             "Short Term",
@@ -213,6 +213,10 @@
         "leaderboard": [
             "Leaders",
             "Лидеры"
+        ],
+        "use": [
+            "Use",
+            "Использовать"
         ]
     },
     "stat": {
@@ -237,27 +241,27 @@
             "Защищенный процент"
         ],
         "adamantiteCapacity": [
-            "Adamant. Capacity",
+            "Adamant Capacity",
             "Вместимость Адаманта"
         ],
         "adamantiteProductionCapacity": [
-            "Adamant. Capacity",
+            "Adamant Capacity",
             "Вместимость Адаманта"
         ],
         "adamantiteProduction": [
-            "Adamant. Production",
+            "Adamant Production",
             "Производство Адаманта"
         ],
         "crystaliteCapacity": [
-            "Crystal. Capacity",
+            "Crystal Capacity",
             "Вместимость Кристалла"
         ],
         "crystaliteProductionCapacity": [
-            "Crystal. Capacity",
+            "Crystal Capacity",
             "Вместимость Кристалла"
         ],
         "crystaliteProduction": [
-            "Crystal. Production",
+            "Crystal Production",
             "Производство Кристалла"
         ],
         "titaniumCapacity": [
@@ -316,7 +320,7 @@
                 "Шахта Адаманта"
             ],
             "description": [
-                "Extracts mineral Adamantite for construction.",
+                "Extracts mineral Adamant for construction.",
                 "Добывает Адамант, который используется для сооружения зданий."
             ]
         },
@@ -326,7 +330,7 @@
                 "Склад Адаманта"
             ],
             "description": [
-                "High capacity storage for holding large quantities of Adamantite.",
+                "High capacity storage for holding large quantities of Adamant.",
                 "Склад большой вместимости для хранения большого количества Адаманта"
             ]
         },
@@ -356,7 +360,7 @@
                 "Ферма Кристалла"
             ],
             "description": [
-                "Grows and harvests one of the most precious resources - Crystalite.",
+                "Grows and harvests one of the most precious resources - Crystal.",
                 "Выращивает и собирает один из самых дорогих ресурсов - Кристалл."
             ]
         },
@@ -366,7 +370,7 @@
                 "Шахта Кристалла"
             ],
             "description": [
-                "High capacity specialised silos for the raw Crystalite storage.",
+                "High capacity specialised silos for the raw Crystal storage.",
                 "Шахта большой вместимости для хранения Кристалла."
             ]
         },
@@ -737,8 +741,8 @@
             "Необходимо улучшить лабораторию"
         ],
         "patreon": [
-            "A message about patreon",
-            "Сообщение о патреоне"
+            "We’ve also launched a Patreon Page, where you can learn more about how our development process goes and support us.",
+            "Мы также запустили страницу на Патреоне, где ты можешь больше узнать о разработке игра и поддержать игру."
         ],
         "missionInfo": {
             "noInfo": [
@@ -753,6 +757,10 @@
         "noSolutions": [
             "Unfortunately, we don't have any shared solutions for this mission.",
             "К сожалению, у нас нет доступных решений для этой миссии."
+        ],
+        "selectItem": [
+            "Select an item to use it",
+            "Выбери элемент для использования"
         ]
     },
     "item": {
@@ -898,8 +906,8 @@
                 "Решения ${ mission }"
             ],
             "short": [
-                "Here you can find the most interesting solutions of other users.",
-                "Тут можно найти самые интересные решения других пользователей."
+                "Interesting solutions of other users.",
+                "Интересные решения других пользователей."
             ]
         },
         "bots": {

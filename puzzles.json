@@ -60,7 +60,7 @@
     ],
 
     "conversion-into-camelcase": [
-        "Conversion Into CamelСase",
+        "Into CamelСase",
         "Перевести в КамелКейс"
     ],
     "easy-unpack": [
@@ -139,8 +139,8 @@
     ],
 
     "the-highest-building": [
-        "The Highest Building",
-        "Самое Высокое Здание"
+        "High Building",
+        "Высокое Здание"
     ],
 
     "even-last": [
@@ -199,8 +199,8 @@
     ],
 
     "group-equal-consecutive": [
-        "Equal Consecutive Group",
-        "Равно Последовательная Группа"
+        "Consecutive Group",
+        "Последовательная Группа"
     ],
 
     "second-index": [
@@ -260,17 +260,17 @@
 
     "bigger-price": [
         "Bigger Price",
-        "Самая Большая Цена"
+        "Большая Цена"
     ],
 
     "time-converter-12h-to-24h": [
-        "Time Converter 12H To 24H",
-        "Перевод Времени из 12 в 24"
+        "12H To 24H",
+        "из 12 в 24"
     ],
 
     "time-converter-24h-to-12h": [
-        "Time Converter 24H To 12H",
-        "Перевод Времени из 24 в 12"
+        "24H To 12H",
+        "из 24 в 12"
     ],
 
     "popular-words": [
@@ -299,8 +299,8 @@
     ],
 
     "area-of-a-convex-polygon": [
-        "Area Of A Convex Polygon",
-        "Площадь Выпуклого Многоугольника"
+        "Convex Polygon",
+        "Выпуклый Многоугольник"
     ],
 
     "super-root": [
@@ -319,13 +319,13 @@
     ],
 
     "count-consecutive-summers": [
-        "Count Consecutive Summers",
-        "Посчитай Последовательные Лета"
+        "Count Consecutive",
+        "Посчитай Последовательность"
     ],
 
     "reverse-roman-numerals": [
-        "Reverse Roman Numerals",
-        "Обратные Римские Цифры"
+        "Reverse Roman",
+        "Обратный Рим"
     ],
 
     "long-repeat": [
@@ -364,13 +364,13 @@
     ],
 
     "date-and-time-converter": [
-        "Date And Time Converter",
-        "Конвертер Даты и Времени"
+        "Time Converter",
+        "Конвертер Времени"
     ],
 
     "the-fastest-horse": [
-        "The Fastest Horse",
-        "Самая Быстрая Лошадь"
+        "Fast Horse",
+        "Быстрая Лошадь"
     ],
 
     "flatten-list": [
@@ -399,8 +399,8 @@
     ],
 
     "caesar-cipher-encryptor": [
-        "Caesar Cipher Encryptor",
-        "Энкриптор Шифра Цезаря"
+        "Caesar Cipher",
+        "Шифра Цезаря"
     ],
 
     "rotate-hole": [
@@ -419,13 +419,13 @@
     ],
 
     "the-longest-palindromic": [
-        "The Longest Palindrome",
-        "Самый Длинный Палиндром"
+        "Long Palindrome",
+        "Длинный Палиндром"
     ],
 
     "the-most-frequent-weekdays": [
-        "The Most Frequent Weekdays",
-        "Самые Частые Дни Недели"
+        "Frequent Weekdays",
+        "Частые Дни Недели"
     ],
 
     "double-substring": [
@@ -450,7 +450,7 @@
 
     "x-o-referee": [
         "X O Referee",
-        "Судья Игры в Крестики-Нолики"
+        "Крестики-Нолики"
     ],
 
     "speechmodule": [
@@ -475,12 +475,12 @@
 
     "long-non-repeat": [
         "Long Non Repeat",
-        "Длинное Отсутствие Повторения"
+        "Отсутствие Повторения"
     ],
 
     "largest-histogram": [
         "Largest Histogram",
-        "Самая Длинная Гистограмма"
+        "Длинная Гистограмма"
     ],
 
     "feed-pigeons": [
@@ -534,8 +534,8 @@
     ],
 
     "sort-array-by-element-frequency": [
-        "Sort an Array By the Element Frequency",
-        "Отсортируй Массив по Частоте Элементов"
+        "Element Frequency",
+        "Частоте Элементов"
     ],
 
     "calls-home": [
@@ -554,8 +554,8 @@
     ],
 
     "compass-map-and-spyglass": [
-        "Compass, Map And a Spyglass",
-        "Компас, Карта и Подзорная Труба"
+        "Compass, Mapб Spyglass",
+        "Компас, Карта и Труба"
     ],
 
     "digits-doublets": [
@@ -589,8 +589,8 @@
     ],
 
     "long-repeat-inside": [
-        "Long Repeat Inside",
-        "Длинное Повторение Внутри"
+        "Long Repeat",
+        "Длинное Повторение"
     ],
 
     "safe-code": [
@@ -644,7 +644,7 @@
     ],
 
     "node-disconnected-users2": [
-        "Node Disconnected Users",
+        "Disconnected Users",
         "Отключенные Пользователи"
     ],
 
@@ -659,8 +659,8 @@
     ],
 
     "ip-network-route-summarization": [
-        "IP Network Route Summarization",
-        "Суммирование сети IP-маршрутов"
+        "IP Network Summarization",
+        "Суммирование IP-маршрутов"
     ],
 
     "disposable-teleports": [
@@ -704,8 +704,8 @@
     ],
 
     "short-string-conversion": [
-        "Short String Conversion",
-        "Преобразование Коротких Строк"
+        "String Conversion",
+        "Преобразование Строк"
     ],
 
     "arr-size": [
