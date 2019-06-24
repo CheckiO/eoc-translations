@@ -115,8 +115,8 @@
             "Шахтер"
         ],
         "description": [
-            "The total number of Mines should be ${ required }. Currently: ${ achieved } / ${ required }",
-            "Общее количество шахт должно быть ${ required }. Есть сейчас: ${ achieved } / ${ required }"
+            "The total number of Resource Production Plants should be ${ required }. Currently: ${ achieved } / ${ required }",
+            "Общее количество Ресурсо-производственных предприятий должно быть ${ required }. Есть сейчас: ${ achieved } / ${ required }"
         ]
     },
     "totalDef": {

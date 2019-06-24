@@ -135,7 +135,91 @@
         "prev": [
             "Prev",
             "Пред."
+        ],
+        "chance": [
+            "Chance",
+            "Шанс"
+        ],
+        "tower": [
+            "Defence Building",
+            "Защитное Здание"
+        ],
+        "unit": [
+            "Unit",
+            "Юнит"
         ]
+    },
+    "unit": {
+        "infantryBot": {
+            "name": [
+                "Infantry Bot",
+                "Бот Стрелок"
+            ],
+            "description": [
+                "Light Unit with a simple muchine gun",
+                "Легкий Юнит с простым пулеметом"
+            ]
+        },
+        "rocketBot": {
+            "name": [
+                "Rocket Bot",
+                "Бот Рокетчик"
+            ],
+            "description": [
+                "A very light unit with Rocket Gun. Rockets can be sent on a huge distance.",
+                "Очень легкий юнит с ракетницей. Может стрелять ракетами на большие растояния."
+            ]
+        },
+        "heavyBot": {
+            "name": [
+                "Heavy Bot",
+                "Брони-Бот"
+            ],
+            "description": [
+                "Heavy Unit with Muchine Gun",
+                "Тяжелый юнит в пулеметом."
+            ]
+        },
+        "mine": {
+            "name": [
+                "Mine",
+                "Мина"
+            ],
+            "description": [
+                "TODO DESC",
+                "Юниты могут взрываться, когда доходят до зоны поражения мины."
+            ]
+        },
+        "rocket": {
+            "name": [
+                "Rocket Launch",
+                "Запуск Рокеты"
+            ],
+            "description": [
+                "Flagman can send a rocket bomb during an attack",
+                "Флагман может отправлять ракетные удары во время атаки"
+            ]
+        },
+        "heal": {
+            "name": [
+                "Healing",
+                "Лечение"
+            ],
+            "description": [
+                "Flagman can heal units in certin area.",
+                "Флагман может лечить юнитов в определенной зоне."
+            ]
+        },
+        "power": {
+            "name": [
+                "Power Up",
+                "Усиление"
+            ],
+            "description": [
+                "Flagman can power up units in certin area.",
+                "Флагман может усиливать юнитов в определенной зоне."
+            ]
+        }
     },
     "game": {
         "status": {
@@ -217,9 +301,33 @@
         "use": [
             "Use",
             "Использовать"
+        ],
+        "train": [
+            "Assemble",
+            "Собрать"
         ]
     },
     "stat": {
+        "rate_of_fire": [
+            "Rate of Fire",
+            "Скорострельность"
+        ],
+        "firing_range": [
+            "Firing Range",
+            "Дальность Стрельбы"
+        ],
+        "damage_per_shot": [
+            "Damage per Shot",
+            "Урон за Выстрел"
+        ],
+        "slots": [
+            "Slots",
+            "Слот"
+        ],
+        "hit_points": [
+            "Hit Points",
+            "Очки Жизни"
+        ],
         "dps": [
             "Damage per shot",
             "Повреждение за выстрел"
@@ -380,8 +488,8 @@
                 "Склад Флекса"
             ],
             "description": [
-                "... for the raw Flex storage.",
-                ""
+                "Flex can be stored here",
+                "Тут хранится Флекс"
             ]
         },
         "titaniumLab": {
@@ -390,8 +498,8 @@
                 "Лаборатория Флекса"
             ],
             "description": [
-                "Flex Lab TODO",
-                ""
+                "Building for synthesis Flex",
+                "Здание для синтеза Флекса"
             ]
         },
         "defPlatform": {
@@ -400,8 +508,8 @@
                 "Платформа"
             ],
             "description": [
-                "Platform Desc TODO",
-                ""
+                "Units can be used to defence your base.",
+                "Позволяет использовать юнитов для защиты зданий."
             ]
         },
         "bots": {
@@ -410,8 +518,8 @@
                 "Доки Ботов"
             ],
             "description": [
-                "Bots Docs desc TODO",
-                ""
+                "Allows you to use bots on your base. For example you can speed up building process.",
+                "Позволяет использовать ботов на базе. Например можно ускорить строительство зданий."
             ]
         },
         "electronic": {
@@ -420,8 +528,8 @@
                 "Электронная станция"
             ],
             "description": [
-                "Electronic TODO",
-                ""
+                "Produce Energy that is requered for bulding and upgrade other buildings",
+                "Производит электричество, которое необходимо для строительства и улучшения других зданий."
             ]
         },
         "radar": {
@@ -470,8 +578,8 @@
                 "Флагман"
             ],
             "description": [
-                "Flagman desc TODO",
-                ""
+                "Extra support for attacking Crafts. Flagman can send bombs, heal units, etc",
+                "Дополнительная поддержка для нападающих Крафтов. Флагман может отправлять бомбы, лечить юнитов итд"
             ]
         },
         "tavern": {
@@ -500,8 +608,8 @@
                 "Флаг"
             ],
             "description": [
-                "",
-                ""
+                "A simple information building. It is just holding your flag and shows some information. You can also get some extra information using it.",
+                "Простое информационное здание. Оно держит твой флаг. И через него можно получить дополнительную информацию"
             ]
         },
         "laboratory": {
@@ -948,6 +1056,16 @@
             "short": [
                 "Congratulations! You've successfully solved the puzzle! Now you can improve the building.",
                 "Поздравляю! Ты успешно решил задачу! Теперь можно улучшить здание."
+            ]
+        },
+        "train": {
+            "title": [
+                "Assemble Units",
+                "Сборка Юнитов"
+            ],
+            "body": [
+                "Here you can order units assemble",
+                "Вы можете заказать сборку юнитов в этом окне"
             ]
         }
     }

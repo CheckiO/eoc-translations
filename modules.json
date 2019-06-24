@@ -1,0 +1,196 @@
+{"modules": {
+    "name": {
+        "u.rateOfFire.lvl1": [
+            "Faster",
+            "Быстрее"
+        ],
+        "u.rateOfFire.lvl2": [
+            "Faster II",
+            "Быстрее II"
+        ],
+        "speed.lvl1": [
+            "Speedy",
+            "Гонщик"
+        ],
+        "speed.lvl2": [
+            "Speedy II",
+            "Гонщик II"
+        ],
+        "u.fireRange.lvl1": [
+            "Longer",
+            "Лонгер"
+        ],
+        "u.fireRange.lvl2": [
+            "Longer II",
+            "Лоншер II"
+        ],
+        "u.damagePerShot.lvl1": [
+            "Power Shot",
+            "Мощный Выстрел"
+        ],
+        "u.damagePerShot.lvl2": [
+            "Power Shot II",
+            "Мощный Выстрел II"
+        ],
+        "u.hitPoints.lvl1": [
+            "Live Longer",
+            "Долгих Лео"
+        ],
+        "u.hitPoints.lvl2": [
+            "Live Longer II",
+            "Долгих Лет II"
+        ],
+        "b.rateOfFire.lvl1": [
+            "Quicker",
+            "Скорый"
+        ],
+        "b.rateOfFire.lvl2": [
+            "Quicker II",
+            "Скорый II"
+        ],
+        "b.fireRange.lvl1": [
+            "Extended",
+            "Расгиреный"
+        ],
+        "b.fireRange.lvl2": [
+            "Extended II",
+            "Расширеный II"
+        ],
+        "b.damagePerShot.lvl1": [
+            "Energy",
+            "Энергия"
+        ],
+        "b.damagePerShot.lvl2": [
+            "Energy II",
+            "Энергия II"
+        ],
+        "b.hitPoints.lvl1": [
+            "Die Hard",
+            "Крепкий Орешек"
+        ],
+        "b.hitPoints.lvl2": [
+            "Die Hard II",
+            "Крепкий Орешек II"
+        ],
+        "groupProtect": [
+            "Stay Together",
+            "Держимся вместе"
+        ],
+        "heavyProtect": [
+            "Heavy Protection",
+            "Держимся вместе II"
+        ],
+        "teleport": [
+            "Teleport",
+            "Телепорт"
+        ],
+        "extDeploy": [
+            "Long Dock",
+            "Длинный Док"
+        ],
+        "shotThrough": [
+            "Shot Through",
+            "Навылет"
+        ],
+        "freezing": [
+            "Freezing",
+            "Замерзаем"
+        ],
+        "fasterRocket": [
+            "Fast Rock",
+            "Быстрый Рок"
+        ],
+        "incCoverRange": [
+            "Casting",
+            "Покрытие"
+        ]
+    },
+    "prop": {
+        "rateOfFire.pr": [
+            "Increasing Rate of Fire on ${value} %",
+            "rateOfFire.pr"
+        ],
+        "speed.pr": [
+            "Increasing unit speed on ${value} %",
+            "speed.pr"
+        ],
+        "fireRange.pr": [
+            "Increasing Firing Range on ${value} %",
+            "fireRange.pr"
+        ],
+        "damagePerShot.pr": [
+            "Increasing Damage per Shot on ${value} %",
+            "damagePerShot.pr"
+        ],
+        "hitPoints.pr": [
+            "Increasing Hit Points on ${value} %",
+            "hitPoints.pr"
+        ],
+        "groupProtect": [
+            "Units that stay together has one hit points for all",
+            "groupProtect"
+        ],
+        "heavyProtect": [
+            "HeavyBot protects units around one, but stop moving at the same time",
+            "Здоровяк защищает всех юнитов вокруг себя, но при этом перестает двигаться"
+        ],
+        "teleport": [
+            "Can teleport unit only once.",
+            "Может перенести юнитов в определенную точку на карте, но только раз."
+        ],
+        "extDeploy": [
+            "Extending Deploy Area",
+            "Расширяет зону высадки"
+        ],
+        "coorDeploy": [
+            "Extra function allows you to choose coordinates for deploy",
+            "Доп. функции позволяют тебе выбирать координаты высадки юнитов."
+        ],
+        "shotThrough": [
+            "You can hit more then one unit by one shot",
+            "Стреляя на вылет можно попасть в более чем одного юнита."
+        ],
+        "freezing": [
+            "Slow down when it gets hitted",
+            "Юнит замедляется, если в него повадает."
+        ],
+        "fasterRocket": [
+            "Rockets can fly faster",
+            "Рокеты могут лететь быстрее"
+        ],
+        "incCoverRange": [
+            "Increase shuting area.",
+            "Увеличивает зону обстрела."
+        ],
+        "for": [
+            "Can only be used for",
+            "Может быть использовано только для"
+        ],
+        "notFor": [
+            "Can't be user for",
+            "Не может быть использовано для"
+        ],
+        "": [
+            "",
+            ""
+        ]
+    },
+    "chance": {
+        "common": [
+            "common",
+            "обычно"
+        ],
+        "rare": [
+            "rare",
+            "редко"
+        ],
+        "epic": [
+            "epic",
+            "эпично"
+        ],
+        "legend": [
+            "legendary",
+            "легенда"
+        ]
+    }
+}}
