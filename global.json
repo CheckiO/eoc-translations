@@ -153,7 +153,7 @@
         "infantryBot": {
             "name": [
                 "Infantry Bot",
-                "Бот Стрелок"
+                "Пехотный Бот"
             ],
             "description": [
                 "Light Unit with a simple muchine gun",
@@ -163,11 +163,11 @@
         "rocketBot": {
             "name": [
                 "Rocket Bot",
-                "Бот Рокетчик"
+                "РакетБот"
             ],
             "description": [
                 "A very light unit with Rocket Gun. Rockets can be sent on a huge distance.",
-                "Очень легкий юнит с ракетницей. Может стрелять ракетами на большие растояния."
+                "Очень легкий юнит с реактивной установкой. Может стрелять ракетами на большие растояния."
             ]
         },
         "heavyBot": {
@@ -207,7 +207,7 @@
             ],
             "description": [
                 "Flagman can heal units in certin area.",
-                "Флагман может лечить юнитов в определенной зоне."
+                "Флагман может лечить юниты в определенной зоне."
             ]
         },
         "power": {
@@ -216,7 +216,7 @@
                 "Усиление"
             ],
             "description": [
-                "Flagman can power up units in certin area.",
+                "Flagman can power up units in a certain area.",
                 "Флагман может усиливать юнитов в определенной зоне."
             ]
         }
@@ -322,7 +322,7 @@
         ],
         "slots": [
             "Slots",
-            "Слот"
+            "Слоты"
         ],
         "hit_points": [
             "Hit Points",
@@ -489,7 +489,7 @@
             ],
             "description": [
                 "Flex can be stored here",
-                "Тут хранится Флекс"
+                "Здесь можно хранить Флекс"
             ]
         },
         "titaniumLab": {
@@ -498,7 +498,7 @@
                 "Лаборатория Флекса"
             ],
             "description": [
-                "Building for synthesis Flex",
+                "Flex synthesis building",
                 "Здание для синтеза Флекса"
             ]
         },
@@ -508,7 +508,7 @@
                 "Платформа"
             ],
             "description": [
-                "Units can be used to defence your base.",
+                "Units can be used to defend your base.",
                 "Позволяет использовать юнитов для защиты зданий."
             ]
         },
@@ -518,7 +518,7 @@
                 "Доки Ботов"
             ],
             "description": [
-                "Allows you to use bots on your base. For example you can speed up building process.",
+                "Allows you to use bots on your base. For example, you can speed up the building process.",
                 "Позволяет использовать ботов на базе. Например можно ускорить строительство зданий."
             ]
         },
@@ -528,7 +528,7 @@
                 "Электронная станция"
             ],
             "description": [
-                "Produce Energy that is requered for bulding and upgrade other buildings",
+                "Produces Energy required for building and upgrading other buildings.",
                 "Производит электричество, которое необходимо для строительства и улучшения других зданий."
             ]
         },
@@ -579,7 +579,7 @@
             ],
             "description": [
                 "Extra support for attacking Crafts. Flagman can send bombs, heal units, etc",
-                "Дополнительная поддержка для нападающих Крафтов. Флагман может отправлять бомбы, лечить юнитов итд"
+                "Дополнительная поддержка для нападающих Крафтов. Флагман может отправлять бомбы, лечить юниты и т.д."
             ]
         },
         "tavern": {
@@ -608,7 +608,7 @@
                 "Флаг"
             ],
             "description": [
-                "A simple information building. It is just holding your flag and shows some information. You can also get some extra information using it.",
+                "A simple information building. It just holds your flag and shows some information. You can also get some extra information using it.",
                 "Простое информационное здание. Оно держит твой флаг. И через него можно получить дополнительную информацию"
             ]
         },
@@ -1064,7 +1064,7 @@
                 "Сборка Юнитов"
             ],
             "body": [
-                "Here you can order units assemble",
+                "Here you can order the unit assembly",
                 "Вы можете заказать сборку юнитов в этом окне"
             ]
         }

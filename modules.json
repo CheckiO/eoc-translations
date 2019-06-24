@@ -34,7 +34,7 @@
         ],
         "u.hitPoints.lvl1": [
             "Live Longer",
-            "Долгих Лео"
+            "Долгих Лет"
         ],
         "u.hitPoints.lvl2": [
             "Live Longer II",
@@ -50,11 +50,11 @@
         ],
         "b.fireRange.lvl1": [
             "Extended",
-            "Расгиреный"
+            "Расширенный"
         ],
         "b.fireRange.lvl2": [
             "Extended II",
-            "Расширеный II"
+            "Расширенный II"
         ],
         "b.damagePerShot.lvl1": [
             "Energy",
@@ -74,11 +74,11 @@
         ],
         "groupProtect": [
             "Stay Together",
-            "Держимся вместе"
+            "Держимся Вместе"
         ],
         "heavyProtect": [
             "Heavy Protection",
-            "Держимся вместе II"
+            "Усиленная защита"
         ],
         "teleport": [
             "Teleport",
@@ -131,11 +131,11 @@
             "groupProtect"
         ],
         "heavyProtect": [
-            "HeavyBot protects units around one, but stop moving at the same time",
-            "Здоровяк защищает всех юнитов вокруг себя, но при этом перестает двигаться"
+            "Heavy Bot protects units around him, but stops moving at the same time",
+            "Брони-Бот защищает всех юнитов вокруг себя, но при этом перестает двигаться"
         ],
         "teleport": [
-            "Can teleport unit only once.",
+            "Can teleport units to a certain point but only once.",
             "Может перенести юнитов в определенную точку на карте, но только раз."
         ],
         "extDeploy": [
@@ -147,19 +147,19 @@
             "Доп. функции позволяют тебе выбирать координаты высадки юнитов."
         ],
         "shotThrough": [
-            "You can hit more then one unit by one shot",
-            "Стреляя на вылет можно попасть в более чем одного юнита."
+            "You can hit more then one unit with one shot.",
+            "Стреляя навылет можно попасть в более чем одного юнита."
         ],
         "freezing": [
-            "Slow down when it gets hitted",
-            "Юнит замедляется, если в него повадает."
+            "Slows down when it gets hit",
+            "Юнит замедляется, если в него повадают."
         ],
         "fasterRocket": [
             "Rockets can fly faster",
             "Рокеты могут лететь быстрее"
         ],
         "incCoverRange": [
-            "Increase shuting area.",
+            "Increases the shooting area.",
             "Увеличивает зону обстрела."
         ],
         "for": [
