@@ -147,6 +147,38 @@
         "unit": [
             "Unit",
             "Юнит"
+        ],
+        "howtosolve": [
+            "How to Solve Mission?",
+            "Как решить задачу?"
+        ],
+        "strategies": [
+            "Strategies",
+            "Стратегии"
+        ],
+        "current": [
+            "Current",
+            "Текущий"
+        ],
+        "victory": [
+            "Victory",
+            "Победа"
+        ],
+        "lost": [
+            "Oops...",
+            "Уупс..."
+        ],
+        "rewards": [
+            "Rewards",
+            "Награда"
+        ],
+        "casualties": [
+            "Casualties",
+            "Потери"
+        ],
+        "required": [
+            "required",
+            "необходим"
         ]
     },
     "unit": {
@@ -234,6 +266,14 @@
             "training": [
                 "Training ${ name } ...",
                 "Тренировка ${ name } ..."
+            ],
+            "removing": [
+                "Removing...",
+                "Удаление..."
+            ],
+            "attack": [
+                "Attack...",
+                "Атака..."
             ]
         }
     },
@@ -305,6 +345,46 @@
         "train": [
             "Assemble",
             "Собрать"
+        ],
+        "code": [
+            "Code",
+            "Код"
+        ],
+        "delete": [
+            "Delete",
+            "Удалить"
+        ],
+        "activate": [
+            "Activate",
+            "Активировать"
+        ],
+        "remove": [
+            "Remove",
+            "Удалить"
+        ],
+        "home": [
+            "Base",
+            "База"
+        ],
+        "startExpedition": [
+            "Start Expedition",
+            "Отправить Экспедицию"
+        ],
+        "view": [
+            "View",
+            "Просмотр"
+        ],
+        "attack": [
+            "Attack",
+            "Атаковать"
+        ],
+        "backToBase": [
+            "Back to Base",
+            "Вернуьтся на Базу"
+        ],
+        "replay": [
+            "Replay",
+            "Просмотреть"
         ]
     },
     "stat": {
@@ -396,32 +476,96 @@
             "Inc. Building Speed",
             "Увеличить Скорость Строительства"
         ],
-        "short.lvl1": [
-            "Short Exp. - Chest lvl 1 pos.",
-            "Короткая экс. - Сундук ур. 1 вер."
+        "chlvl1": [
+            "Chest lvl 1 pos.",
+            "Сундук ур. 1 вер."
         ],
-        "short.lvl2": [
-            "Short Exp. - Chest lvl 2 pos.",
-            "Короткая экс. - Сундук ур. 2 вер."
+        "chlvl2": [
+            "Chest lvl 2 pos.",
+            "Сундук ур. 2 вер."
         ],
-        "short.lvl3": [
-            "Short Exp. - Chest lvl 3 pos.",
-            "Короткая экс. - Сундук ур. 3 вер."
+        "chlvl3": [
+            "Chest lvl 3 pos.",
+            "Сундук ур. 3 вер."
         ],
-        "long.lvl1": [
-            "Long Exp. - Chest lvl 1 pos.",
-            "Длинная экс. - Сундук ур. 1 вер."
+        "codingPos": [
+            "Coded Chest pos.",
+            "Закодир. Сундук вер."
         ],
-        "long.lvl2": [
-            "Long Exp. - Chest lvl 2 pos.",
-            "Длинная экс. - Сундук ур. 2 вер."
+        "hireTime": [
+            "Assemble Time",
+            "Время Сборки"
         ],
-        "long.lvl3": [
-            "Long Exp. - Chest lvl 3 pos.",
-            "Длинная экс. - Сундук ур. 3 вер."
+        "damage": [
+            "Damage",
+            "Мощьность"
+        ],
+        "power": [
+            "Power",
+            "Сила"
+        ],
+        "time": [
+            "Time",
+            "Время"
+        ],
+        "distance": [
+            "Distance",
+            "Расстояние"
+        ],
+        "expSpeed": [
+            "Expedition Speed",
+            "Скорость Экспедиции"
         ]
     },
+    "radar": {
+        "exp": {
+            "name": [
+                "Asteroid",
+                "Астероид"
+            ],
+            "description": [
+                "You can explore the Asteroid using expeditions from Garbage Collector",
+                "Можно исследовать этот Астероид используя экспедиции Сборщика Мусора"
+            ]
+        },
+        "base": {
+            "name": [
+                "Base",
+                "База"
+            ]
+        },
+        "my": {
+            "name": [
+                "Your Base",
+                "Твоя База"
+            ]
+        },
+        "expedition": {
+            "name": [
+                "Expedition",
+                "Экспедиция"
+            ]
+        },
+        "attack": {
+            "name": [
+                "Attack",
+                "Атака"
+            ]
+        }
+    },
     "building":{
+        "obstacle2": {
+            "name": [
+                "Obstacle",
+                "Преграда"
+            ]
+        },
+        "obstacle3": {
+            "name": [
+                "Obstacle",
+                "Преграда"
+            ]
+        },
         "adamantiteMine": {
             "name":[
                 "Adamantite mine",
@@ -545,7 +689,7 @@
         "garbage": {
             "name": [
                 "Garbage Collector",
-                "Сборщик мусора"
+                "Сборщик Мусора"
             ],
             "description": [
                 "Send expeditions with this building, which can bring you chests.",
@@ -804,6 +948,10 @@
         }
     },
     "message": {
+        "confirmRemoveStrategy": [
+            "Are you sure you want to remove strategy ${name}?",
+            "Вы уверены, что хотите удалить стратегию ${name}?"
+        ],
         "expeditionSuccess": [
             "There's a new Chest in your Inventory.",
             "Проверь новый Сундук в Инвентаре."
@@ -873,6 +1021,38 @@
         "noSpaceForBots": [
             "No space for new AI-Bots. Please upgrade Bot Docs or add more of them",
             "Недостаточно места для Ботов. Пожалуйста улучшите Доки Ботов или постройте их больше"
+        ],
+        "useCheckiOClient": [
+            "Empire of Code doesn’t have Web Editor yet, so all missions can be run locally, and the server verification is being carried out through the console tool - the <a href='https://github.com/CheckiO/checkio-client' target='_blank'>CheckiO Client</a>.<br>At the moment you have 2 verification methods that can be performed via CheckiO Client.<br>1 - <b>Using the Web Extension</b> for Chrome or FireFox. Read more about it <a target='_blank' href='https://medium.com/empire-of-code/web-extension-for-empire-of-code-9921841b6a20'>here</a>.<br>2 - <b>Run the solution directly</b>. Just like with the Web Extension implementation, in order to do this, you have to go through the client configuration procedure only once.<br><pre>$ checkio --domain ${ domain } config --key ${ key }</pre><br>And then run the mission<br><pre>$ checkio run ${ mission }</pre><br>Or test the results of the solution.<pre>$ checkio check ${ mission }</pre><br><i>P.S. We’ll add the Web Editor in the future, but the ability to use CheckiO Client will still remain as an alternative for running and testing solutions.</i>",
+            "У нас еще нет Web Editor на  Empire of Code, поэтому все задачи решаются локально, а верификация с сервером осуществляется посредством console tool <a href='https://github.com/CheckiO/checkio-client' target='_blank'>CheckiO Client</a>.<br>На данный момент у вас есть 2 метода верификации посредством CheckiO Client.<br>1 - <b>Используя Web Extension</b> for Chrome or FireFox. Подробнее об этом можно <a target='_blank' href='https://medium.com/empire-of-code/web-extension-for-empire-of-code-9921841b6a20'>почитать тут</a>.<br>2 - <b>Запуск решения напрямую</b>. Для этого вам, как и с использованием Web Extension надо единожды пройти через процедуру конфигурацию клиента<br><pre>$ checkio --domain ${ domain } config --key ${ key }</pre><br>А потом запускать миссию<br><pre>$ checkio run ${ mission }</pre><br>Или тестировать результаты решения <br><pre>$ checkio check ${ mission }</pre><br>PS: в будущем мы добавим  Web Editor, но возможность использовать CheckiO Client  все равно останется как возможность альтернативного запуска и тестирования решение."
+        ],
+        "cantRemoveObstacle": [
+            "You can't remove this obstacle yet. Level of your Command Center should be at least ${ cc }",
+            "Невозможно удалить эту преграду. Уровень Командного Центра должен быть не меньше ${ cc }"
+        ],
+        "loadingBase": [
+            "Loading base ${ username }...",
+            "Загрузка базы ${ username }..."
+        ],
+        "attackIsNotAllowed": [
+            "Attack is not allowed yet.",
+            "Атака пока не доступна."
+        ],
+        "noNotifications": [
+            "Notifications folder is empty",
+            "Папка с уведомледниями пуста"
+        ],
+        "noRewards": [
+            "No rewards for loosers",
+            "Без труда...."
+        ],
+        "noBattleIdInfo": [
+            "System Error: Can't find battle in notifications",
+            "Системная Ошибка: Невозможно найти битву в уведомлениях"
+        ],
+        "allBuildingsRequireStrategy": [
+            "All buildings should have a strategy",
+            "Все здания должны иметь стратегию"
         ]
     },
     "item": {
@@ -1066,6 +1246,24 @@
             "body": [
                 "Here you can order the unit assembly",
                 "Вы можете заказать сборку юнитов в этом окне"
+            ]
+        },
+        "notifications": {
+            "title": [
+                "Notification",
+                "Уведомления"
+            ],
+            "short":[
+                "All your past battles are listed here",
+                "Все прошедшие битвы могут быть найдены тут"
+            ]
+        }
+    },
+    "notification": {
+        "battle": {
+            "name": [
+                "Battle",
+                "Битва"
             ]
         }
     }

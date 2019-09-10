@@ -554,7 +554,7 @@
     ],
 
     "compass-map-and-spyglass": [
-        "Compass, Mapб Spyglass",
+        "Compass, Map and Spyglass",
         "Компас, Карта и Труба"
     ],
 
@@ -723,7 +723,7 @@
         "Найди Ключ"
     ],
 
-    "the-ship-teams": [
+    "ship-teams": [
         "The Ship Teams",
         "Команды Кораблей"
     ]

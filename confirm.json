@@ -11,6 +11,10 @@
         "Are you sure you want to cancel the research process? In that case all the used cards are going to be returned to your inventory, but only half of the resources will make it to your storage.",
         "Вы уверены, что хотите отменить исследование? В этом случае все карты будут возвращены в ваш инвентарь, но на склад вернется только половина использованных ресурсов."
     ],
+    "cancelAttack": [
+        "Are you sure you want to cancel attack?",
+        "Вы уверены, что хотите отменить атаку?"
+    ],
     "useResourcesCoin": [
         "You don't have enough resources. Do you want to use a Blitz-Coin instead?",
         "У вас недостаточно ресурсов. Вы хотите вместо них использовать Блиц-Коин?"
@@ -18,5 +22,13 @@
     "useTimeCoin": [
         "Are you sure you want to use Blitz-Coins in order to speed up the building process?",
         "Вы уверены, что хотите использовать Блиц-Коины, чтобы ускорить процесс строительства?"
+    ],
+    "confirmRemoveObstacle": [
+        "Do you want to remove obstacle for ${ cost } Crystal? It will take ${ time } but, as a bonus, you will get ${ ret } Adamant in return.",
+        "Хотите убрать преграду за ${ cost } Кристала? Это займет ${ time } но, как бонус, будет возвращено ${ ret } Адаманта"
+    ],
+    "cantRemoveObstacle": [
+        "In order to remove that obstacle, level of Command Center should be at least ${ cc }",
+        "Для того, чтобы удалить эту приграду, уровень Командного Центра должен быть не меньше ${ cc }"
     ]
 }}}
