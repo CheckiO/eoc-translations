@@ -106,7 +106,7 @@
         ]
     },
     "prop": {
-        "rateOfFire.pr": [
+        "damagePerSecond.pr": [
             "Increasing Rate of Fire on ${value} %",
             "rateOfFire.pr"
         ],
@@ -138,25 +138,25 @@
             "Can teleport units to a certain point but only once.",
             "Может перенести юнитов в определенную точку на карте, но только раз."
         ],
-        "extDeploy": [
+        "landingShift": [
             "Extending Deploy Area",
             "Расширяет зону высадки"
         ],
-        "coorDeploy": [
+        "landing": [
             "Extra function allows you to choose coordinates for deploy",
             "Доп. функции позволяют тебе выбирать координаты высадки юнитов."
         ],
-        "shotThrough": [
+        "pierceShot": [
             "You can hit more then one unit with one shot.",
             "Стреляя навылет можно попасть в более чем одного юнита."
         ],
-        "freezing": [
+        "freezeShot": [
             "Slows down when it gets hit",
             "Юнит замедляется, если в него повадают."
         ],
-        "fasterRocket": [
-            "Rockets can fly faster",
-            "Рокеты могут лететь быстрее"
+        "rocketSpeed.pr": [
+            "Rockets can fly ${value} % faster",
+            "Рокеты могут лететь на ${value} % быстрее"
         ],
         "incCoverRange": [
             "Increases the shooting area.",

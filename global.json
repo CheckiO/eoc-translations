@@ -515,6 +515,67 @@
         "expSpeed": [
             "Expedition Speed",
             "Скорость Экспедиции"
+        ],
+
+        "charge_size": [
+            "Charge Size",
+            "Размер Заряда"
+        ],
+        "has_rocket": [
+            "Has Rocket",
+            "С Рокетой"
+        ],
+        "has_heal": [
+            "Has Heal",
+            "С Лечением"
+        ],
+        "has_power": [
+            "Has Power",
+            "С Уселением"
+        ],
+        "damage_per_second": [
+            "Damage per Second",
+            "Урон в Сек"
+        ],
+        "rate_of_turn": [
+            "Rate of Turn",
+            "Скорость Поворота"
+        ],
+        "field_of_view": [
+            "Field of View",
+            "Область Обзора"
+        ],
+        "full_cooldown_time": [
+            "Full Cooldown Time",
+            "Время Восстановления"
+        ],
+        "firing_time_limit": [
+            "Firing Time Limit",
+            "Макс. Время Стрельбы"
+        ],
+        "min_percentage_after_overheat": [
+            "Min Percentage After Overheat",
+            "Мин. Проц. Восстановления"
+        ],
+        "charging_time": [
+            "Charging Time",
+            "Время Зарядки"
+        ],
+        "firing_range_100": [
+            "100% Firing Range",
+            "Радиус 100% Попадания"
+        ],
+        "start_chance": [
+            "Start Chance",
+            "Начальный шанс попадания"
+        ],
+        "rocket_speed": [
+            "Rocket Speed",
+            "Скокрость Рокеты"
+        ],
+        "rocket_explosion_radius": [
+            "Rocket Explosion Radius",
+            "Радиус Взрыва Рокеты"
         ]
     },
     "radar": {
@@ -561,6 +622,12 @@
             ]
         },
         "obstacle3": {
+            "name": [
+                "Obstacle",
+                "Преграда"
+            ]
+        },
+        "obstacle5": {
             "name": [
                 "Obstacle",
                 "Преграда"
@@ -1053,6 +1120,22 @@
         "allBuildingsRequireStrategy": [
             "All buildings should have a strategy",
             "Все здания должны иметь стратегию"
+        ],
+        "garbageRequired": [
+            "Garbage Collector is required for launching Expedition",
+            "Сборщик Мусора необходим для запуска экспедиции"
+        ],
+        "minimalGarbageLevel": [
+            "Minimal Garbage Collector Level should be ${ level }",
+            "Минимальный уровень Сборщика Мусора должен быть ${ level }"
+        ],
+        "onlyOneGarbageCanBeLaunched": [
+            "Only one Expedition can be launched",
+            "Только одна Экспедиция может быть запущенна"
+        ],
+        "noCraftForAttack": [
+            "There are not craft ready for attack",
+            "Сейчас нет Крафтов готовых к атаке"
         ]
     },
     "item": {
